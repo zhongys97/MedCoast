@@ -52,13 +52,7 @@ conda activate medcoast
 pip install -r requirements.txt
 ```
 
-Copy the API-key template and fill it in:
-
-```bash
-cp api_keys.example.json api_keys.json
-```
-
-Only `HUGGINGFACE_HUB_TOKEN` needs a value. Keep the other keys in the file, since some scripts read them, but they can stay empty. `HF_HOME` is optional.
+Fill in your Hugging Face token in `api_keys.json`. Only `HUGGINGFACE_HUB_TOKEN` needs a value. Keep the other keys in the file, since some scripts read them, but they can stay empty. `HF_HOME` is optional.
 
 Run all commands from the repository root.
 

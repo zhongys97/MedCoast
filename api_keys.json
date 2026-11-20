@@ -1,0 +1,7 @@
+{
+    "HUGGINGFACE_HUB_TOKEN": "hf_...",
+    "HF_HOME": "~/.cache/huggingface",
+    "OPENAI_API_KEY": "",
+    "GEMINI_API_KEY": "",
+    "ANTHROPIC_API_KEY": ""
+}

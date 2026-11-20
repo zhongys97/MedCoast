@@ -236,8 +236,10 @@ class old_PRMScorer:
 
 
 if __name__ == "__main__":
-    scorer = PRMScorer(api_keys_json_path="/home/hice1/yzhong307/scratch/tree_of_thought/api_keys.json",
-                       ft_model_path="/home/hice1/yzhong307/scratch/tree_of_thought/trained_value_model/cutoff_0.8_wcorrect_0.5/checkpoint-22000")
+    # huggingface-cli download zhongys97/medcoast medcoast_prm_dsim0.8_a0.0.pt --local-dir checkpoints
+    scorer = PRMScorer(api_keys_json_path="api_keys.json",
+                       base_model_name="answerdotai/ModernBERT-base",
+                       ft_model_path="checkpoints/medcoast_prm_dsim0.8_a0.0.pt")
     user_prompt = str({'question': 'A 6-month-old boy is brought to her pediatrician for a checkup and vaccines. He was born at 39 weeks gestation via spontaneous vaginal delivery. He is meeting all the developmental milestones. His prenatal history was complicated with maternal diabetes. He is being breastfed exclusively and has 3–4 wet diapers a day. On physical exam, the vital signs include: temperature 37.0°C (98.6°F), blood pressure 85/45 mm Hg, pulse 140/min, and respiratory rate is 31/min. On physical examination, the patient is alert and responsive. Height, weight, and head circumference are above the 90th percentile. Which of the following vaccines should be administered for this patient at this visit?', 'options': {'A': 'RV, DTaP, PCV', 'B': 'RV, Tdap, PCV, Hib', 'C': 'RV, DTaP, PCV, Hib, IPV', 'D': 'Hep B, DTaP, Influenza'}})
     pred_content = "<|step|> Recall vaccine schedule for 6-month-old infants <|step|> Note that this baby is above the 90th percentile for height, weight, and head circumference, which may indicate macrosomia due to maternal diabetes. <|step|> Consider the potential risks of macrosomia, such as increased risk of respiratory problems. <|step|> Recall that the recommended vaccinations for 6-month-old infants include RotaVirus (RV), Diphtheria, Tetanus, and Pertussis (DTaP), and Pneumococcal Conjugate Vaccine (PCV)."
     score = scorer.score(user_prompt, pred_content)
