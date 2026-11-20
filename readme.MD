@@ -1,6 +1,6 @@
 # MedCoast
 
-[![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Models-ffc107)](https://huggingface.co/zhongys97/medcoast)
+[![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Models-ffc107)](https://huggingface.co/zhongys97/MedCoast)
 
 MedCoast improves medical question answering by scoring an LLM's reasoning step by step and steering it toward steps that lead to correct answers. Instead of costly expert labels, it derives step-level supervision automatically: sampled chain-of-thought trajectories are merged into an abstract reasoning tree, and each node is scored by how often and how quickly it reaches a correct answer. A lightweight process reward model learns to rank sibling steps from these scores, then guides search at inference without fine-tuning the policy model. The same PRM also generalizes well across backbones, improving policy models it never saw during training.
 
@@ -21,7 +21,7 @@ The pipeline:
 
 ## Pretrained PRMs
 
-The trained PRMs are on Hugging Face at [zhongys97/medcoast](https://huggingface.co/zhongys97/medcoast). The paper uses `medcoast_prm_dsim0.8_a0.0.pt` (dsim = 0.8, a = 0.0).
+The trained PRMs are on Hugging Face at [zhongys97/MedCoast](https://huggingface.co/zhongys97/MedCoast). The paper uses `medcoast_prm_dsim0.8_a0.0.pt` (dsim = 0.8, a = 0.0).
 
 - **dsim** is the cosine-similarity threshold used to merge steps into tree nodes (`--cutoff` in the code).
 - **a** is the weight on the node's correct-answer rate in its value. The remaining `1 - a` goes to the depth ratio (`--weight_correct` in the code).
@@ -29,7 +29,7 @@ The trained PRMs are on Hugging Face at [zhongys97/medcoast](https://huggingface
 Download one:
 
 ```bash
-huggingface-cli download zhongys97/medcoast medcoast_prm_dsim0.8_a0.0.pt --local-dir checkpoints
+huggingface-cli download zhongys97/MedCoast medcoast_prm_dsim0.8_a0.0.pt --local-dir checkpoints
 ```
 
 Load it with `PRMScorer`:
@@ -75,6 +75,47 @@ To rebuild the splits from source, uncomment the datasets you need in `data/down
 ```bash
 cd data && python download_ds.py && cd ..
 ```
+
+## Evaluation
+
+All evaluation goes through `evaluate_qa.model_evaluator`, and `--configs` picks the method. Point `--ft_bert_model_path` at a PRM checkpoint, either [downloaded](#pretrained-prms) or [trained yourself](#training-a-prm).
+
+| `--configs` | Method | Main options |
+|---|---|---|
+| `one_pass` | Single answer | – |
+| `self_consistency` | Majority vote over N samples | `--num_answers_needed` |
+| `best_of_n` | N full answers, keep the one with the highest PRM score | `--num_answers_needed` |
+| `mcts_direct` | PRM-guided MCTS | `--mcts_simulation`, `--mcts_max_tree_depth`, `--mcts_max_search_depth`, `--mcts_branch_k`, `--mcts_c_puct` |
+
+Examples:
+
+```bash
+PRM=checkpoints/medcoast_prm_dsim0.8_a0.0.pt
+TEST=./data/processed/test
+
+# Without a PRM
+python -m evaluate_qa.model_evaluator --model_name meta-llama/Llama-3.1-8B-Instruct \
+    --configs one_pass self_consistency --processed_qa_pairs_jsons_dir $TEST \
+    --num_answers_needed 30 --bertscore_device cuda --seed 42
+
+# MCTS
+python -m evaluate_qa.model_evaluator --model_name meta-llama/Llama-3.1-8B-Instruct \
+    --configs mcts_direct --processed_qa_pairs_jsons_dir $TEST --bertscore_device cuda \
+    --ft_bert_model_path $PRM --mcts_simulation 16 --mcts_max_tree_depth 20 \
+    --mcts_max_search_depth 4 --mcts_branch_k 4 --mcts_c_puct 1.2 --seed 42
+
+# Best-of-N
+python -m evaluate_qa.model_evaluator --model_name meta-llama/Llama-3.1-8B-Instruct \
+    --configs best_of_n --processed_qa_pairs_jsons_dir $TEST --bertscore_device cuda \
+    --ft_bert_model_path $PRM --num_answers_needed 16 --batch_size 16 --seed 42
+```
+
+Results are saved to `evaluation_results/<config>/<model>/<dataset>/`. Pass `--seed` to fix the random seed; results then go under `<config>_seed<seed>`. Multiple-choice datasets are scored by accuracy. Free-text datasets (BioASQ, MedQuAD) are scored with BERTScore and ROUGE.
+
+### Models evaluated
+
+- **In-distribution policy models** (with and without PRM-guided search): `Qwen/Qwen3-8B`, `google/gemma-2-9b-it`, `meta-llama/Llama-3.1-8B-Instruct`
+- **Out-of-distribution policy models** (with and without PRM-guided search): `mistralai/Ministral-3-8B-Instruct-2512`, `allenai/Olmo-3-7B-Instruct`, `microsoft/Phi-3.5-mini-instruct`
 
 ## Training a PRM
 
@@ -124,47 +165,6 @@ python -m training.train_ranker_wds \
 ```
 
 Replace `NNNNNN` with the index of the last shard in each folder. The checkpoint with the best validation pairwise accuracy is saved as `best_prm.pt`, and per-step metrics go to `train_history.jsonl`. Defaults: `answerdotai/ModernBERT-base`, learning rate 5e-6, batch size 32, early-stopping patience 20 evaluations.
-
-## Evaluation
-
-All evaluation goes through `evaluate_qa.model_evaluator`, and `--configs` picks the method. Point `--ft_bert_model_path` at a PRM checkpoint, either downloaded or trained yourself.
-
-| `--configs` | Method | Main options |
-|---|---|---|
-| `one_pass` | Single answer | – |
-| `self_consistency` | Majority vote over N samples | `--num_answers_needed` |
-| `best_of_n` | N full answers, keep the one with the highest PRM score | `--num_answers_needed` |
-| `mcts_direct` | PRM-guided MCTS | `--mcts_simulation`, `--mcts_max_tree_depth`, `--mcts_max_search_depth`, `--mcts_branch_k`, `--mcts_c_puct` |
-
-Examples:
-
-```bash
-PRM=checkpoints/medcoast_prm_dsim0.8_a0.0.pt
-TEST=./data/processed/test
-
-# Without a PRM
-python -m evaluate_qa.model_evaluator --model_name meta-llama/Llama-3.1-8B-Instruct \
-    --configs one_pass self_consistency --processed_qa_pairs_jsons_dir $TEST \
-    --num_answers_needed 30 --bertscore_device cuda
-
-# MCTS
-python -m evaluate_qa.model_evaluator --model_name meta-llama/Llama-3.1-8B-Instruct \
-    --configs mcts_direct --processed_qa_pairs_jsons_dir $TEST --bertscore_device cuda \
-    --ft_bert_model_path $PRM --mcts_simulation 20 --mcts_max_tree_depth 20 \
-    --mcts_max_search_depth 4 --mcts_branch_k 4 --mcts_c_puct 1.2
-
-# Best-of-N
-python -m evaluate_qa.model_evaluator --model_name meta-llama/Llama-3.1-8B-Instruct \
-    --configs best_of_n --processed_qa_pairs_jsons_dir $TEST --bertscore_device cuda \
-    --ft_bert_model_path $PRM --num_answers_needed 16 --batch_size 16
-```
-
-Results are saved to `evaluation_results/<config>/<model>/<dataset>/`. Pass `--seed` to fix the random seed; results then go under `<config>_seed<seed>`. Multiple-choice datasets are scored by accuracy. Free-text datasets (BioASQ, MedQuAD) are scored with BERTScore and ROUGE.
-
-### Models evaluated
-
-- **In-distribution policy models** (with and without PRM-guided search): `Qwen/Qwen3-8B`, `google/gemma-2-9b-it`, `meta-llama/Llama-3.1-8B-Instruct`
-- **Out-of-distribution policy models** (with and without PRM-guided search): `mistralai/Ministral-3-8B-Instruct-2512`, `allenai/Olmo-3-7B-Instruct`, `microsoft/Phi-3.5-mini-instruct`
 
 ## Repository layout
 

@@ -236,7 +236,7 @@ class old_PRMScorer:
 
 
 if __name__ == "__main__":
-    # huggingface-cli download zhongys97/medcoast medcoast_prm_dsim0.8_a0.0.pt --local-dir checkpoints
+    # huggingface-cli download zhongys97/MedCoast medcoast_prm_dsim0.8_a0.0.pt --local-dir checkpoints
     scorer = PRMScorer(api_keys_json_path="api_keys.json",
                        base_model_name="answerdotai/ModernBERT-base",
                        ft_model_path="checkpoints/medcoast_prm_dsim0.8_a0.0.pt")
