@@ -1,0 +1,23 @@
+{
+    "train": {
+        "medqa": 10178,
+        "pubmedqa": 800,
+        "bioasq": 167,
+        "medmcqa": 91411
+    },
+    "val": {
+        "medqa": 1272,
+        "pubmedqa": 100,
+        "bioasq": 42,
+        "medmcqa": 1046
+    },
+    "test": {
+        "medqa": 1273,
+        "medquad": 1641,
+        "bioasq": 325,
+        "medmcqa": 2091,
+        "medxpertqa": 2450,
+        "mmlu": 1111,
+        "pubmedqa": 100
+    }
+}

@@ -1,0 +1,1302 @@
+[
+    {
+        "idx": 0,
+        "is_mcq": true,
+        "question": "Can routine offering of influenza vaccination in office-based settings reduce racial and ethnic disparities in adult influenza vaccination?",
+        "options": {
+            "A": "yes",
+            "B": "no",
+            "C": "maybe"
+        },
+        "answer": "A",
+        "answer_text": "yes",
+        "answer_long": "Improved office-based practices regarding influenza vaccination could significantly impact Healthy People 2020 goals by increasing influenza vaccine uptake and reducing corresponding racial and ethnic disparities."
+    },
+    {
+        "idx": 1,
+        "is_mcq": true,
+        "question": "Can we measure mesopic pupil size with the cobalt blue light slit-lamp biomicroscopy method?",
+        "options": {
+            "A": "yes",
+            "B": "no",
+            "C": "maybe"
+        },
+        "answer": "B",
+        "answer_text": "no",
+        "answer_long": "Although the SLBM is quite repeatable, it underestimates mesopic pupil size and shows a too wide range of agreement with CIP. SLBM shows low sensitivity in detecting pupils larger than 6\u00a0mm, which may be misleading when planning anterior segment surgery. Previous grading-consensus training strategies may increase interrater reproducibility, and compensation for the systematic underestimation could improve accuracy of the SLBM."
+    },
+    {
+        "idx": 2,
+        "is_mcq": true,
+        "question": "Identification of racial disparities in breast cancer mortality: does scale matter?",
+        "options": {
+            "A": "yes",
+            "B": "no",
+            "C": "maybe"
+        },
+        "answer": "A",
+        "answer_text": "yes",
+        "answer_long": "This study investigates both relative and absolute racial disparities in breast cancer mortality between White non-Hispanic and African-American/Hispanic women at the census tract, zip code and county levels. Analysis at the census tract level generally led to a larger proportion of geographical units experiencing significantly higher mortality rates for minority groups, although results varied depending on the use of the relative versus absolute statistics. Additional research is needed before general conclusions can be formulated regarding the choice of optimal geographic regions for the detection of racial disparities."
+    },
+    {
+        "idx": 3,
+        "is_mcq": true,
+        "question": "Is ankle/arm pressure predictive for cardiovascular mortality in older patients living in nursing homes?",
+        "options": {
+            "A": "yes",
+            "B": "no",
+            "C": "maybe"
+        },
+        "answer": "B",
+        "answer_text": "no",
+        "answer_long": "The prevalence of PAD is high in nursing home residents. AAI is not predictive for IHD mortality in this population. In very frail elderly traditional risk factors and PAD are less important predictors of death compared to poor functional status, nutritional factors and previous cardiovascular disease."
+    },
+    {
+        "idx": 4,
+        "is_mcq": true,
+        "question": "Does a delay in transfer to a rehabilitation unit for older people affect outcome after fracture of the proximal femur?",
+        "options": {
+            "A": "yes",
+            "B": "no",
+            "C": "maybe"
+        },
+        "answer": "A",
+        "answer_text": "yes",
+        "answer_long": "Delay in transfer to a rehabilitation ward was associated with a disproportionate increase in total hospital length of stay for patients aged over 75 with fracture of the proximal femur."
+    },
+    {
+        "idx": 5,
+        "is_mcq": true,
+        "question": "Memory-provoked rCBF-SPECT as a diagnostic tool in Alzheimer's disease?",
+        "options": {
+            "A": "yes",
+            "B": "no",
+            "C": "maybe"
+        },
+        "answer": "A",
+        "answer_text": "yes",
+        "answer_long": "Memory provocation increased the sensitivity of rCBF-SPECT for the detection of AD-related blood flow changes in the brain at the group level. Further studies are needed to evaluate MP-SPECT as a diagnostic tool at the individual level. If a higher sensitivity for AD at the individual level is verified in future studies, a single MP-SPECT study might be sufficient in the clinical setting."
+    },
+    {
+        "idx": 6,
+        "is_mcq": true,
+        "question": "Assessing Patient Reported Outcomes Measures via Phone Interviews Versus Patient Self-Survey in the Clinic: Are We Measuring the Same Thing?",
+        "options": {
+            "A": "yes",
+            "B": "no",
+            "C": "maybe"
+        },
+        "answer": "A",
+        "answer_text": "yes",
+        "answer_long": "Our study suggests that there is great reliability between PRO data captured between FTE-dependent and non-FTE-dependent methodologies."
+    },
+    {
+        "idx": 7,
+        "is_mcq": true,
+        "question": "Are patients with serious mental illness more likely to be admitted to nursing homes with more deficiencies in care?",
+        "options": {
+            "A": "yes",
+            "B": "no",
+            "C": "maybe"
+        },
+        "answer": "A",
+        "answer_text": "yes",
+        "answer_long": "Patients diagnosed with schizophrenia or bipolar disorder (ie, SMI) were more likely than other patients to be admitted to nursing homes with higher deficiency citations for both overall quality and clinical care quality. Further research is necessary to understand the reasons behind the disparity in quality of nursing home care associated with SMI."
+    },
+    {
+        "idx": 8,
+        "is_mcq": true,
+        "question": "Prostate bed target interfractional motion using RTOG consensus definitions and daily CT on rails : Does target motion differ between superior and inferior portions of the clinical target volume?",
+        "options": {
+            "A": "yes",
+            "B": "no",
+            "C": "maybe"
+        },
+        "answer": "B",
+        "answer_text": "no",
+        "answer_long": "There are no statistically apparent motion differences between SUP-CTV and INF-CTV. Current uniform planning target volume (PTV) margins are adequate to cover both portions of the CTV."
+    },
+    {
+        "idx": 9,
+        "is_mcq": true,
+        "question": "Autoxidation products of both carbohydrates and lipids are increased in uremic plasma: is there oxidative stress in uremia?",
+        "options": {
+            "A": "yes",
+            "B": "no",
+            "C": "maybe"
+        },
+        "answer": "A",
+        "answer_text": "yes",
+        "answer_long": "These data suggest that the increased levels of AGEs in blood, and probably in tissues, reported in uremia implicate a broad derangement in non-enzymatic biochemistry involving alterations in autoxidation of both carbohydrates and lipids."
+    },
+    {
+        "idx": 10,
+        "is_mcq": true,
+        "question": "Do preoperative statins reduce atrial fibrillation after coronary artery bypass grafting?",
+        "options": {
+            "A": "yes",
+            "B": "no",
+            "C": "maybe"
+        },
+        "answer": "A",
+        "answer_text": "yes",
+        "answer_long": "Our study indicated that preoperative statin therapy seems to reduce AF development after CABG."
+    },
+    {
+        "idx": 11,
+        "is_mcq": true,
+        "question": "Did the call for boycott by the Catholic bishops affect the polio vaccination coverage in Kenya in 2015?",
+        "options": {
+            "A": "yes",
+            "B": "no",
+            "C": "maybe"
+        },
+        "answer": "B",
+        "answer_text": "no",
+        "answer_long": "The call for boycott did not affect the campaign significantly. However, if the call for boycott is repeated in future it could have some significant negative implication to polio eradication. It is therefore important to ensure that any vaccine safety issues are addressed accordingly."
+    },
+    {
+        "idx": 12,
+        "is_mcq": true,
+        "question": "Do clinical variables predict pathologic radiographs in the first episode of wheezing?",
+        "options": {
+            "A": "yes",
+            "B": "no",
+            "C": "maybe"
+        },
+        "answer": "B",
+        "answer_text": "no",
+        "answer_long": "Clinical variables, either isolated or as components of a model, could not identify all children with pathologic radiographs."
+    },
+    {
+        "idx": 13,
+        "is_mcq": true,
+        "question": "Pituitary apoplexy: do histological features influence the clinical presentation and outcome?",
+        "options": {
+            "A": "yes",
+            "B": "no",
+            "C": "maybe"
+        },
+        "answer": "A",
+        "answer_text": "yes",
+        "answer_long": "The patients who presented with histological features of pituitary tumor infarction alone had less severe clinical features on presentation, a longer course prior to presentation, and a better outcome than those presenting with hemorrhagic infarction or frank hemorrhage. The endocrine replacement requirements were similar in both groups."
+    },
+    {
+        "idx": 14,
+        "is_mcq": true,
+        "question": "Can fractional lasers enhance transdermal absorption of topical lidocaine in an in vivo animal model?",
+        "options": {
+            "A": "yes",
+            "B": "no",
+            "C": "maybe"
+        },
+        "answer": "A",
+        "answer_text": "yes",
+        "answer_long": "This study demonstrates that laser pretreatment significantly increases absorption of topical lidocaine so that it is detectable in the blood and that manipulating laser settings can affect drug absorption. Future work will look at translating this effect into clinical benefit."
+    },
+    {
+        "idx": 15,
+        "is_mcq": true,
+        "question": "Is ganglionated plexi ablation during Maze IV procedure beneficial for postoperative long-term stable sinus rhythm?",
+        "options": {
+            "A": "yes",
+            "B": "no",
+            "C": "maybe"
+        },
+        "answer": "B",
+        "answer_text": "no",
+        "answer_long": "GP ablation did not prove to be beneficial for postoperative stable NSR. A complete left atrial lesion set and biatrial ablation are advisable for improving rhythm outcomes. Randomized controlled trials are necessary to confirm our findings."
+    },
+    {
+        "idx": 16,
+        "is_mcq": true,
+        "question": "The effect of an intracerebroventricular injection of metformin or AICAR on the plasma concentrations of melatonin in the ewe: potential involvement of AMPK?",
+        "options": {
+            "A": "yes",
+            "B": "no",
+            "C": "maybe"
+        },
+        "answer": "A",
+        "answer_text": "yes",
+        "answer_long": "Taken together, these results suggest a potential role for AMPK on the secretion of melatonin probably acting trough the paraventricular nucleus and/or directly in the pineal gland. We conclude that AMPK may act as a metabolic cue to modulate the rhythm of melatonin secretion."
+    },
+    {
+        "idx": 17,
+        "is_mcq": true,
+        "question": "Women with synchronous primary cancers of the endometrium and ovary: do they have Lynch syndrome?",
+        "options": {
+            "A": "yes",
+            "B": "no",
+            "C": "maybe"
+        },
+        "answer": "C",
+        "answer_text": "maybe",
+        "answer_long": "Overall, 7% of women in our cohort met either clinical or molecular criteria for Lynch syndrome. All of these women had a prior history or a first-degree relative with an HNPCC-associated cancer. Limiting genetic evaluation to women with synchronous endometrial and ovarian cancer who have a family history suggestive of HNPCC may appropriately identify women with Lynch syndrome."
+    },
+    {
+        "idx": 18,
+        "is_mcq": true,
+        "question": "Evaluation of pediatric VCUG at an academic children's hospital: is the radiographic scout image necessary?",
+        "options": {
+            "A": "yes",
+            "B": "no",
+            "C": "maybe"
+        },
+        "answer": "B",
+        "answer_text": "no",
+        "answer_long": "Although the estimated effective dose is low for VCUG radiographic scout images, this step did not augment VCUG interpretation or contribute management-changing information. This step should be omitted or substituted to further reduce dose in pediatric VCUG."
+    },
+    {
+        "idx": 19,
+        "is_mcq": true,
+        "question": "Outcome Feedback within Emergency Medicine Training Programs: An Opportunity to Apply the Theory of Deliberate Practice?",
+        "options": {
+            "A": "yes",
+            "B": "no",
+            "C": "maybe"
+        },
+        "answer": "C",
+        "answer_text": "maybe",
+        "answer_long": "While Canadian EM training programs do not mandate follow-up, it is performed electively by the majority of residents surveyed. Residents place a significantly greater educational value on outcome feedback than their program directors, and believe that follow-up should be a mandatory component of EM residencies."
+    },
+    {
+        "idx": 20,
+        "is_mcq": true,
+        "question": "Can p53 alterations be used to predict tumour response to pre-operative chemo-radiotherapy in locally advanced rectal cancer?",
+        "options": {
+            "A": "yes",
+            "B": "no",
+            "C": "maybe"
+        },
+        "answer": "B",
+        "answer_text": "no",
+        "answer_long": "p53 alteration detected by IHC or SSCP analysis is not a clinically useful predictor of local response to pre-operative adjuvant therapy in advanced rectal carcinoma."
+    },
+    {
+        "idx": 21,
+        "is_mcq": true,
+        "question": "Is there any relationship between streptococcal infection and multiple sclerosis?",
+        "options": {
+            "A": "yes",
+            "B": "no",
+            "C": "maybe"
+        },
+        "answer": "A",
+        "answer_text": "yes",
+        "answer_long": "These findings indicate that a relationship between multiple sclerosis and streptococcal infections may exist, but to acquire a better understanding of the role of group A streptococci in the pathogenesis of multiple sclerosis, more studies with animal models are necessary."
+    },
+    {
+        "idx": 22,
+        "is_mcq": true,
+        "question": "Do parents recall and understand children's weight status information after BMI screening?",
+        "options": {
+            "A": "yes",
+            "B": "no",
+            "C": "maybe"
+        },
+        "answer": "C",
+        "answer_text": "maybe",
+        "answer_long": "While parents remember that their child's body mass index is higher than recommended, they are unable to remember much of the information and advice provided about the result."
+    },
+    {
+        "idx": 23,
+        "is_mcq": true,
+        "question": "Do cytokines have any role in epilepsy?",
+        "options": {
+            "A": "yes",
+            "B": "no",
+            "C": "maybe"
+        },
+        "answer": "A",
+        "answer_text": "yes",
+        "answer_long": "We found increased post-ictal serum cytokine levels in patients with several epilepsy syndromes."
+    },
+    {
+        "idx": 24,
+        "is_mcq": true,
+        "question": "Is the atopy patch test with house dust mites specific for atopic dermatitis?",
+        "options": {
+            "A": "yes",
+            "B": "no",
+            "C": "maybe"
+        },
+        "answer": "A",
+        "answer_text": "yes",
+        "answer_long": "These observations lead to conclude that the APT with HDM is positive also in non-AD subjects but it is probably more specific for AD."
+    },
+    {
+        "idx": 25,
+        "is_mcq": true,
+        "question": "Can mental imagery functional magnetic resonance imaging predict recovery in patients with disorders of consciousness?",
+        "options": {
+            "A": "yes",
+            "B": "no",
+            "C": "maybe"
+        },
+        "answer": "A",
+        "answer_text": "yes",
+        "answer_long": "The fMRI paradigm mental imagery displays a high concordance with the further clinical course of patients in a VS. All 5 patients in a VS who showed significant activation of ROIs had a favorable further course until the end of the observation period. We therefore propose the term \"functional minimally conscious state\" for these patients. They may benefit from rehabilitation treatment. In cases where no significant activation was seen, the method has no prognostic value. Prediction of the clinical course of patients in an MCS by fMRI was considerably less accurate than in patients in a VS."
+    },
+    {
+        "idx": 26,
+        "is_mcq": true,
+        "question": "Steroids in aminoglycoside-containing ear drops: do they reduce cochlear toxicity?",
+        "options": {
+            "A": "yes",
+            "B": "no",
+            "C": "maybe"
+        },
+        "answer": "A",
+        "answer_text": "yes",
+        "answer_long": "Our data suggest that hearing loss caused by GM otic drops may be reduced by the inclusion of BM and benzalkonium chloride. Our finding that BM alone was associated with hearing loss suggests that the benzalkonium chloride may be the protective agent in combination otic drops."
+    },
+    {
+        "idx": 27,
+        "is_mcq": true,
+        "question": "Does timing of initial surfactant treatment make a difference in rates of chronic lung disease or mortality in premature infants?",
+        "options": {
+            "A": "yes",
+            "B": "no",
+            "C": "maybe"
+        },
+        "answer": "C",
+        "answer_text": "maybe",
+        "answer_long": "Early surfactant administration is associated with shorter duration of ventilation but does not appear to be significantly protective against CLD/mortality among premature infants. This may support the growing evidence for consideration of CPAP as an alternative to routine intubation and early surfactant administration. Further investigation from large randomized clinical trials is warranted to confirm these results."
+    },
+    {
+        "idx": 28,
+        "is_mcq": true,
+        "question": "Is pelvic pain associated with defecatory symptoms in women with pelvic organ prolapse?",
+        "options": {
+            "A": "yes",
+            "B": "no",
+            "C": "maybe"
+        },
+        "answer": "A",
+        "answer_text": "yes",
+        "answer_long": "In women with POP, the symptom of pelvic pain is associated with the presence of defecatory symptoms."
+    },
+    {
+        "idx": 29,
+        "is_mcq": true,
+        "question": "Is the fibronectin-aggrecan complex present in cervical disk disease?",
+        "options": {
+            "A": "yes",
+            "B": "no",
+            "C": "maybe"
+        },
+        "answer": "A",
+        "answer_text": "yes",
+        "answer_long": "Biochemical analysis of injured cervical intervertebral disks reveals the presence of inflammatory markers such as MCP, fragments of structural matrix proteins such as FAC, and a correlation with pH. Further evaluation of the FAC as a potential diagnostic biomarker or therapeutic target is warranted in the cervical spine."
+    },
+    {
+        "idx": 30,
+        "is_mcq": true,
+        "question": "Do general practice characteristics influence uptake of an information technology (IT) innovation in primary care?",
+        "options": {
+            "A": "yes",
+            "B": "no",
+            "C": "maybe"
+        },
+        "answer": "B",
+        "answer_text": "no",
+        "answer_long": "The analyses show that structural characteristics of a practice are not associated with uptake of a new IT facility, but that its use may be influenced by post-graduate education in the relevant clinical condition. For this diabetes system at least, practice nurse use was critical in spreading uptake beyond initial GP enthusiasts and for sustained and rising use in subsequent years."
+    },
+    {
+        "idx": 31,
+        "is_mcq": true,
+        "question": "Are normally sighted, visually impaired, and blind pedestrians accurate and reliable at making street crossing decisions?",
+        "options": {
+            "A": "yes",
+            "B": "no",
+            "C": "maybe"
+        },
+        "answer": "C",
+        "answer_text": "maybe",
+        "answer_long": "Our data suggested that visually impaired pedestrians can make accurate and reliable street crossing decisions like those of normally sighted pedestrians. When using auditory information only, all subjects significantly overestimated the vehicular gap time. Our finding that blind pedestrians performed significantly worse than either the normally sighted or visually impaired subjects under the hearing only condition suggested that they may benefit from training to improve their detection ability and/or interpretation of vehicular gap times."
+    },
+    {
+        "idx": 32,
+        "is_mcq": true,
+        "question": "Does obstructive sleep apnea affect aerobic fitness?",
+        "options": {
+            "A": "yes",
+            "B": "no",
+            "C": "maybe"
+        },
+        "answer": "C",
+        "answer_text": "maybe",
+        "answer_long": "Overall, in a US Air Force population, OSA does not predict a decrease in aerobic fitness as measured by cycle ergometry. However, patients with an apnea-hypopnea index of greater than 20 have a statistically significant decrease in aerobic fitness compared to the normal population. This study demonstrates the effects of OSA on aerobic fitness. Further correlation of fitness testing results with OSA severity and treatment is needed."
+    },
+    {
+        "idx": 33,
+        "is_mcq": true,
+        "question": "Recovery Outcome Measures: Is There a Place for Culture, Attitudes, and Faith?",
+        "options": {
+            "A": "yes",
+            "B": "no",
+            "C": "maybe"
+        },
+        "answer": "A",
+        "answer_text": "yes",
+        "answer_long": "This paper discusses the cultural appropriateness of the RAQ in Australian settings, and identifies the need to develop rigorous, inclusive recovery outcome measures."
+    },
+    {
+        "idx": 34,
+        "is_mcq": true,
+        "question": "MR arthrography of the shoulder: do we need local anesthesia?",
+        "options": {
+            "A": "yes",
+            "B": "no",
+            "C": "maybe"
+        },
+        "answer": "B",
+        "answer_text": "no",
+        "answer_long": "Local anesthesia is not required to lower a patient's pain intensity when applying intra-articular contrast media for MR arthrography of the shoulder. This could result in reduced costs and a reduced risk of adverse reactions, without an impact on patient comfort."
+    },
+    {
+        "idx": 35,
+        "is_mcq": true,
+        "question": "Sternal plating for primary and secondary sternal closure; can it improve sternal stability?",
+        "options": {
+            "A": "yes",
+            "B": "no",
+            "C": "maybe"
+        },
+        "answer": "A",
+        "answer_text": "yes",
+        "answer_long": "Transverse sternal plating with 1 or 4 plates significantly improves sternal stability closure in human cadaver model. Adding a single sternal plate to primary closure improves the strength of sternal closure with traditional wiring potentially reducing the risk of sternal dehiscence and could be considered in high risk patients."
+    },
+    {
+        "idx": 36,
+        "is_mcq": true,
+        "question": "Can common carotid intima media thickness serve as an indicator of both cardiovascular phenotype and risk among black Africans?",
+        "options": {
+            "A": "yes",
+            "B": "no",
+            "C": "maybe"
+        },
+        "answer": "A",
+        "answer_text": "yes",
+        "answer_long": "Our findings support CIMT as a significant indicator of both cardiovascular risk and phenotype among adult black Africans. However, specific thresholds need to be defined based on prospective studies."
+    },
+    {
+        "idx": 37,
+        "is_mcq": true,
+        "question": "Does histologic chorioamnionitis correspond to clinical chorioamnionitis?",
+        "options": {
+            "A": "yes",
+            "B": "no",
+            "C": "maybe"
+        },
+        "answer": "A",
+        "answer_text": "yes",
+        "answer_long": "Histologic chorioamnionitis is a reliable indicator of infection whether or not it is clinically apparent."
+    },
+    {
+        "idx": 38,
+        "is_mcq": true,
+        "question": "Is there a relationship between rheumatoid arthritis and periodontal disease?",
+        "options": {
+            "A": "yes",
+            "B": "no",
+            "C": "maybe"
+        },
+        "answer": "A",
+        "answer_text": "yes",
+        "answer_long": "Based on data derived from self-reported health conditions, and not withstanding the limitations of such a study, we conclude that there is good evidence to suggest that individuals with moderate to severe periodontal disease are at higher risk of suffering from rheumatoid arthritis and vice versa."
+    },
+    {
+        "idx": 39,
+        "is_mcq": true,
+        "question": "Advanced epithelial ovarian carcinoma in Thai women: should we continue to offer second-look laparotomy?",
+        "options": {
+            "A": "yes",
+            "B": "no",
+            "C": "maybe"
+        },
+        "answer": "B",
+        "answer_text": "no",
+        "answer_long": "The second-look laparotomy doesn't have a favorable impact on overall and disease-free survival. Tumor grade is the only independent prognostic variable for survival of the patients."
+    },
+    {
+        "idx": 40,
+        "is_mcq": true,
+        "question": "Body dysmorphic disorder: does it have a psychotic subtype?",
+        "options": {
+            "A": "yes",
+            "B": "no",
+            "C": "maybe"
+        },
+        "answer": "A",
+        "answer_text": "yes",
+        "answer_long": "Body dysmorphic disorder may have a closely related psychotic subtype that significantly overlaps with, or may even be the same disorder as, the BDD variant of delusional disorder, somatic type. Inclusion of a psychotic subtype for BDD should be considered for future editions of DSM."
+    },
+    {
+        "idx": 41,
+        "is_mcq": true,
+        "question": "Intravenous administration of metoclopramide by 2 min bolus vs 15 min infusion: does it affect the improvement of headache while reducing the side effects?",
+        "options": {
+            "A": "yes",
+            "B": "no",
+            "C": "maybe"
+        },
+        "answer": "A",
+        "answer_text": "yes",
+        "answer_long": "Slowing the infusion rate of metoclopramide is an effective strategy for the improvement of headache and reducing the incidence of akathisia in patients with vascular type headache."
+    },
+    {
+        "idx": 42,
+        "is_mcq": true,
+        "question": "Prevalence of chronic conditions among Medicare Part A beneficiaries in 2008 and 2010: are Medicare beneficiaries getting sicker?",
+        "options": {
+            "A": "yes",
+            "B": "no",
+            "C": "maybe"
+        },
+        "answer": "A",
+        "answer_text": "yes",
+        "answer_long": "Analyzing the prevalence of 11 chronic conditions by using Medicare claims data provides a monitoring tool that can guide health care providers and policy makers in devising strategies to address chronic conditions and rising health care costs."
+    },
+    {
+        "idx": 43,
+        "is_mcq": true,
+        "question": "Assessment of appropriate antimicrobial prescribing: do experts agree?",
+        "options": {
+            "A": "yes",
+            "B": "no",
+            "C": "maybe"
+        },
+        "answer": "A",
+        "answer_text": "yes",
+        "answer_long": "Doctors specialized in infectious diseases and clinical microbiology assess the appropriateness of antimicrobials prescribed for a broad spectrum of indications with acceptable agreement and validity, regardless of their experience or hospital of employment. However, there is room for improvement, which merits attention in multidisciplinary discussions and education."
+    },
+    {
+        "idx": 44,
+        "is_mcq": true,
+        "question": "Is the processing of affective prosody influenced by spatial attention?",
+        "options": {
+            "A": "yes",
+            "B": "no",
+            "C": "maybe"
+        },
+        "answer": "C",
+        "answer_text": "maybe",
+        "answer_long": "Emotional prosody, therefore, seems to be partially processed outside the focus of spatial attention. Whereas at early sensory processing stages spatial attention modulates the degree of emotional voice processing as a function of emotional valence, emotional prosody is processed outside of the focus of spatial attention at later processing stages."
+    },
+    {
+        "idx": 45,
+        "is_mcq": true,
+        "question": "Subclavian steal syndrome: can the blood pressure difference between arms predict the severity of steal?",
+        "options": {
+            "A": "yes",
+            "B": "no",
+            "C": "maybe"
+        },
+        "answer": "A",
+        "answer_text": "yes",
+        "answer_long": "Brachial systolic blood pressure difference is related to the severity of SSS and can be used as a screening tool for SSS. However, it performed better in severe steal than milder steal phenomena."
+    },
+    {
+        "idx": 46,
+        "is_mcq": true,
+        "question": "Are women with major depression in pregnancy identifiable in population health data?",
+        "options": {
+            "A": "yes",
+            "B": "no",
+            "C": "maybe"
+        },
+        "answer": "B",
+        "answer_text": "no",
+        "answer_long": "No single data source is likely to provide a complete health profile for an individual. For women with depression in pregnancy and dispensed antidepressants, the hospital admission data do not adequately capture all cases."
+    },
+    {
+        "idx": 47,
+        "is_mcq": true,
+        "question": "Is Chaalia/Pan Masala harmful for health?",
+        "options": {
+            "A": "yes",
+            "B": "no",
+            "C": "maybe"
+        },
+        "answer": "A",
+        "answer_text": "yes",
+        "answer_long": "The frequency of habits of Chaalia and Pan Masala chewing, by school children in lower socio-economic areas is extremely high. The probable reasons for this high frequency are taste, the widespread use of these substances by family members and friends, low cost and easy availability."
+    },
+    {
+        "idx": 48,
+        "is_mcq": true,
+        "question": "Some aspects of social exclusion: do they influence suicide mortality?",
+        "options": {
+            "A": "yes",
+            "B": "no",
+            "C": "maybe"
+        },
+        "answer": "A",
+        "answer_text": "yes",
+        "answer_long": "Both 'economic/employment' and 'social/welfare' dimensions of social exclusion significantly influence suicide mortality among males. The influence of 'economic/employment' and 'social/welfare' dimensions of social exclusion on female suicide mortality is controversial. Social exclusion might be considered as a risk factor for suicide mortality in Europe."
+    },
+    {
+        "idx": 49,
+        "is_mcq": true,
+        "question": "Treatment of vitamin D deficiency in CKD patients with ergocalciferol: are current K/DOQI treatment guidelines adequate?",
+        "options": {
+            "A": "yes",
+            "B": "no",
+            "C": "maybe"
+        },
+        "answer": "B",
+        "answer_text": "no",
+        "answer_long": "Current K/DOQI guidelines are inadequate for correcting VDDI or secondary hyperparathyroidism in CKD patients. Future studies should examine the effects of higher or more frequent dosing of ergocalciferol on these clinical endpoints."
+    },
+    {
+        "idx": 50,
+        "is_mcq": true,
+        "question": "Does the central venous pressure predict fluid responsiveness?",
+        "options": {
+            "A": "yes",
+            "B": "no",
+            "C": "maybe"
+        },
+        "answer": "B",
+        "answer_text": "no",
+        "answer_long": "There are no data to support the widespread practice of using central venous pressure to guide fluid therapy. This approach to fluid resuscitation should be abandoned."
+    },
+    {
+        "idx": 51,
+        "is_mcq": true,
+        "question": "Risk factors for avascular necrosis of bone in patients with systemic lupus erythematosus: is there a role for antiphospholipid antibodies?",
+        "options": {
+            "A": "yes",
+            "B": "no",
+            "C": "maybe"
+        },
+        "answer": "B",
+        "answer_text": "no",
+        "answer_long": "Incorporating an adjustment for corticosteroid use we were unable to show a link between the presence of aPL and the development of AVN in patients with SLE."
+    },
+    {
+        "idx": 52,
+        "is_mcq": true,
+        "question": "Acute respiratory distress syndrome in children with malignancy--can we predict outcome?",
+        "options": {
+            "A": "yes",
+            "B": "no",
+            "C": "maybe"
+        },
+        "answer": "A",
+        "answer_text": "yes",
+        "answer_long": "Peak inspiratory pressure, PEEP, and ventilation index values could distinguish survivors from nonsurvivors by day 3. This may assist in early application of supportive nonconventional therapies in children with malignancy and ARDS."
+    },
+    {
+        "idx": 53,
+        "is_mcq": true,
+        "question": "Is Aspiration Thrombectomy Beneficial in Patients Undergoing Primary Percutaneous Coronary Intervention?",
+        "options": {
+            "A": "yes",
+            "B": "no",
+            "C": "maybe"
+        },
+        "answer": "B",
+        "answer_text": "no",
+        "answer_long": "Aspiration thrombectomy before primary PCI is not associated with any benefit on clinical end points and might increase the risk of stroke. Concomitant administration of intravenous glycoprotein IIb/IIIa inhibitors and ischemic time did not seem to influence any potential benefits observed with aspiration thrombectomy."
+    },
+    {
+        "idx": 54,
+        "is_mcq": true,
+        "question": "Is low birth weight a risk indicator for congenital cytomegalovirus infection?",
+        "options": {
+            "A": "yes",
+            "B": "no",
+            "C": "maybe"
+        },
+        "answer": "B",
+        "answer_text": "no",
+        "answer_long": "CMV-IgM and IgG antibodies assessment was not a potential discriminative test to identify congenitally infected newborns. In addition, low birth weight and small head circumference at birth failed to predict congenital CMV infection. CMV-DNA detection in umbilical cord blood at the time of delivery using real-time PCR of all newborns is recommended as decisive, rapid and non-invasive test."
+    },
+    {
+        "idx": 55,
+        "is_mcq": true,
+        "question": "Empiric treatment of uncomplicated urinary tract infection with fluoroquinolones in older women in Israel: another lost treatment option?",
+        "options": {
+            "A": "yes",
+            "B": "no",
+            "C": "maybe"
+        },
+        "answer": "C",
+        "answer_text": "maybe",
+        "answer_long": "Physicians who opt to treat UTI in postmenopausal women empirically should consider prescribing drugs other than fluoroquinolones. Concomitant longitudinal surveillance of both antibiotic utilization patterns and uropathogen resistance rates should become routine practice in this managed-care organization."
+    },
+    {
+        "idx": 56,
+        "is_mcq": true,
+        "question": "Pancreas retransplantation:  a second chance for diabetic patients?",
+        "options": {
+            "A": "yes",
+            "B": "no",
+            "C": "maybe"
+        },
+        "answer": "A",
+        "answer_text": "yes",
+        "answer_long": "Pancreas retransplantation is a safe procedure with acceptable graft survival that should be proposed to diabetic patients who have lost their primary graft."
+    },
+    {
+        "idx": 57,
+        "is_mcq": true,
+        "question": "Is the affinity column-mediated immunoassay method suitable as an alternative to the microparticle enzyme immunoassay method as a blood tacrolimus assay?",
+        "options": {
+            "A": "yes",
+            "B": "no",
+            "C": "maybe"
+        },
+        "answer": "A",
+        "answer_text": "yes",
+        "answer_long": "The ACMIA method used for a tacrolimus assay is precise and has advantages, including the lack of a required pretreatment procedure. Furthermore, it is only slightly influenced by the hematologic or biochemical status of the samples."
+    },
+    {
+        "idx": 58,
+        "is_mcq": true,
+        "question": "Is severe pain immediately after spinal augmentation a predictor of long-term outcomes?",
+        "options": {
+            "A": "yes",
+            "B": "no",
+            "C": "maybe"
+        },
+        "answer": "B",
+        "answer_text": "no",
+        "answer_long": "Patients with severe pain immediately after vertebroplasty have similar long-term outcomes compared with patients without severe pain."
+    },
+    {
+        "idx": 59,
+        "is_mcq": true,
+        "question": "Is lumbar drainage of postoperative cerebrospinal fluid fistula after spine surgery effective?",
+        "options": {
+            "A": "yes",
+            "B": "no",
+            "C": "maybe"
+        },
+        "answer": "A",
+        "answer_text": "yes",
+        "answer_long": "Lumbar drainage seems to be effective and safe both in preventing CSF fistula in cases of large dural tears and debilitated/irradiated patients and in treating CSF leaks."
+    },
+    {
+        "idx": 60,
+        "is_mcq": true,
+        "question": "The insertion allele of the ACE gene I/D polymorphism. A candidate gene for insulin resistance?",
+        "options": {
+            "A": "yes",
+            "B": "no",
+            "C": "maybe"
+        },
+        "answer": "B",
+        "answer_text": "no",
+        "answer_long": "We conclude that increased cardiovascular risk of the DD genotype is not mediated through insulin resistance or abnormalities in fibrinolysis. Conversely, we report an increased sensitivity in NIDDM subjects with the ACE DD genotype."
+    },
+    {
+        "idx": 61,
+        "is_mcq": true,
+        "question": "The English antibiotic awareness campaigns: did they change the public's knowledge of and attitudes to antibiotic use?",
+        "options": {
+            "A": "yes",
+            "B": "no",
+            "C": "maybe"
+        },
+        "answer": "B",
+        "answer_text": "no",
+        "answer_long": "There is little evidence that the 2008 public antibiotic campaigns were effective. The use and visibility of future campaign materials needs auditing. A carefully planned approach that targets the public in GP waiting rooms and through clinicians in consultations may be a more effective way of improving prudent antibiotic use."
+    },
+    {
+        "idx": 62,
+        "is_mcq": true,
+        "question": "Could different follow-up modalities play a role in the diagnosis of asymptomatic endometrial cancer relapses?",
+        "options": {
+            "A": "yes",
+            "B": "no",
+            "C": "maybe"
+        },
+        "answer": "C",
+        "answer_text": "maybe",
+        "answer_long": "Follow-up after endometrial cancer treatment varies in Italy. In this retrospective study, women with asymptomatic recurrence have shown a better clinical outcome compared with those with symptomatic relapse. The optimal approach is actually unknown, and guidelines comparing follow-up protocols have not been established. Prospective cost-effectiveness studies are needed."
+    },
+    {
+        "idx": 63,
+        "is_mcq": true,
+        "question": "Does pretreatment with statins improve clinical outcome after stroke?",
+        "options": {
+            "A": "yes",
+            "B": "no",
+            "C": "maybe"
+        },
+        "answer": "B",
+        "answer_text": "no",
+        "answer_long": "The statistical power of this case-referent study was such that only large beneficial effects of statins in acute stroke could be confirmed. However, the observed trend, together with experimental observations, is interesting enough to warrant a more detailed analysis of the relationship between statins and stroke outcome."
+    },
+    {
+        "idx": 64,
+        "is_mcq": true,
+        "question": "Treadmill testing of children who have spina bifida and are ambulatory: does peak oxygen uptake reflect maximum oxygen uptake?",
+        "options": {
+            "A": "yes",
+            "B": "no",
+            "C": "maybe"
+        },
+        "answer": "A",
+        "answer_text": "yes",
+        "answer_long": "The (.)Vo(2)peak measured during an incremental treadmill test seems to reflect the true (.)Vo(2)max in children who have spina bifida and are ambulatory, validating the use of a treadmill test for these children. When confirmation of maximal effort is needed, the addition of supramaximal testing of children with disability is an easy and well-tolerated method."
+    },
+    {
+        "idx": 65,
+        "is_mcq": true,
+        "question": "Body diffusion-weighted MR imaging of uterine endometrial cancer: is it helpful in the detection of cancer in nonenhanced MR imaging?",
+        "options": {
+            "A": "yes",
+            "B": "no",
+            "C": "maybe"
+        },
+        "answer": "A",
+        "answer_text": "yes",
+        "answer_long": "DW imaging can be helpful in the detection of uterine endometrial cancer in nonenhanced MR imaging."
+    },
+    {
+        "idx": 66,
+        "is_mcq": true,
+        "question": "Can a Novel Surgical Approach to the Temporomandibular Joint Improve Access and Reduce Complications?",
+        "options": {
+            "A": "yes",
+            "B": "no",
+            "C": "maybe"
+        },
+        "answer": "A",
+        "answer_text": "yes",
+        "answer_long": "The VMPA can provide direct access and favorable visibility to the TMJ region and yield good esthetic and functional results. The VMPA can be considered the approach of choice for common TMJ surgeries."
+    },
+    {
+        "idx": 67,
+        "is_mcq": true,
+        "question": "Do \"America's Best Hospitals\" perform better for acute myocardial infarction?",
+        "options": {
+            "A": "yes",
+            "B": "no",
+            "C": "maybe"
+        },
+        "answer": "A",
+        "answer_text": "yes",
+        "answer_long": "Admission to a hospital ranked high on the list of \"America's Best Hospitals\" was associated with lower 30-day mortality among elderly patients with acute myocardial infarction. A substantial portion of the survival advantage may be associated with these hospitals' higher rates of use of aspirin and beta-blocker therapy."
+    },
+    {
+        "idx": 68,
+        "is_mcq": true,
+        "question": "Pitfalls in urinary stone identification using CT attenuation values: are we getting the same information on different scanner models?",
+        "options": {
+            "A": "yes",
+            "B": "no",
+            "C": "maybe"
+        },
+        "answer": "B",
+        "answer_text": "no",
+        "answer_long": "According to our study, there is a great variability when different brands and models of scanners are compared directly. Furthermore, the CT scan analysis and HU evaluation appears to gather insufficient information in order to characterize and identify the composition of renal stones."
+    },
+    {
+        "idx": 69,
+        "is_mcq": true,
+        "question": "Fast foods - are they a risk factor for asthma?",
+        "options": {
+            "A": "yes",
+            "B": "no",
+            "C": "maybe"
+        },
+        "answer": "A",
+        "answer_text": "yes",
+        "answer_long": "Frequent consumption of hamburgers showed a dose-dependent association with asthma symptoms, and frequent takeaway consumption showed a similar association with BHR."
+    },
+    {
+        "idx": 70,
+        "is_mcq": true,
+        "question": "Does solid culture for tuberculosis influence clinical decision making in India?",
+        "options": {
+            "A": "yes",
+            "B": "no",
+            "C": "maybe"
+        },
+        "answer": "C",
+        "answer_text": "maybe",
+        "answer_long": "Using solid culture, 150 cultures need to be tested for one treatment modification and 30 for DST. The cost of the widespread application of culture will need to be balanced against its impact on treatment decisions in India."
+    },
+    {
+        "idx": 71,
+        "is_mcq": true,
+        "question": "Is Overexpression of Ki-67 a Prognostic Biomarker of Upper Tract Urinary Carcinoma?",
+        "options": {
+            "A": "yes",
+            "B": "no",
+            "C": "maybe"
+        },
+        "answer": "A",
+        "answer_text": "yes",
+        "answer_long": "In conclusion, high Ki-67 expression was associated with poor survival in patients with UTUC, as well as a high risk of disease progression, although these findings need to be interpreted with caution. Large-scale, adequately designed, prospective trials are needed to further confirm the value of Ki-67 in prognosis of UTUC patients."
+    },
+    {
+        "idx": 72,
+        "is_mcq": true,
+        "question": "Should HIV-infected patients be screened for silent myocardial ischaemia using gated myocardial perfusion SPECT?",
+        "options": {
+            "A": "yes",
+            "B": "no",
+            "C": "maybe"
+        },
+        "answer": "C",
+        "answer_text": "maybe",
+        "answer_long": "In male HIV-infected patients older than 52 years and with at least two other CRFs, screening for SMI using myocardial SPECT was about four times more likely to be positive than in the general population. This may motivate physicians to advise these patients to undergo more systematic screening for SMI using this technique."
+    },
+    {
+        "idx": 73,
+        "is_mcq": true,
+        "question": "Does the National Institutes of Health Stroke Scale favor left hemisphere strokes?",
+        "options": {
+            "A": "yes",
+            "B": "no",
+            "C": "maybe"
+        },
+        "answer": "A",
+        "answer_text": "yes",
+        "answer_long": "For a given NIHSS score, the median volume of right hemisphere strokes is consistently larger than the median volume of left hemisphere strokes. The clinical implications of our finding need further exploration."
+    },
+    {
+        "idx": 74,
+        "is_mcq": true,
+        "question": "Is external palliative radiotherapy for gallbladder carcinoma effective?",
+        "options": {
+            "A": "yes",
+            "B": "no",
+            "C": "maybe"
+        },
+        "answer": "A",
+        "answer_text": "yes",
+        "answer_long": "External radiotherapy seems to be a safe and effective method of palliative management of gallbladder carcinoma. However, further studies are necessary to determine the role of radiotherapy in palliative or adjuvant treatment of gallbladder carcinoma."
+    },
+    {
+        "idx": 75,
+        "is_mcq": true,
+        "question": "Are Reviewers' Scores Influenced by Citations to Their Own Work?",
+        "options": {
+            "A": "yes",
+            "B": "no",
+            "C": "maybe"
+        },
+        "answer": "A",
+        "answer_text": "yes",
+        "answer_long": "In a leading specialty journal, cited reviewers gave higher scores than noncited reviewers. However, this\u00a0was likely due to their being assigned higher-quality manuscripts and not because they were cited in the manuscript. Reviewer requests that their work be cited were rare."
+    },
+    {
+        "idx": 76,
+        "is_mcq": true,
+        "question": "\"Would a man smell a rose then throw it away?",
+        "options": {
+            "A": "yes",
+            "B": "no",
+            "C": "maybe"
+        },
+        "answer": "C",
+        "answer_text": "maybe",
+        "answer_long": "Jordanian men perceive themselves as having a vital role in supporting, guiding and encouraging their wives to follow breast cancer early detection recommendations. Breast health awareness campaigns could involve husbands to capitalize on family support."
+    },
+    {
+        "idx": 77,
+        "is_mcq": true,
+        "question": "Does sonographic needle guidance affect the clinical outcome of intraarticular injections?",
+        "options": {
+            "A": "yes",
+            "B": "no",
+            "C": "maybe"
+        },
+        "answer": "A",
+        "answer_text": "yes",
+        "answer_long": "Sonographic needle guidance significantly improves the performance and outcomes of outpatient IA injections in a clinically significant manner."
+    },
+    {
+        "idx": 78,
+        "is_mcq": true,
+        "question": "Must early postoperative oral intake be limited to laparoscopy?",
+        "options": {
+            "A": "yes",
+            "B": "no",
+            "C": "maybe"
+        },
+        "answer": "B",
+        "answer_text": "no",
+        "answer_long": "Early oral intake is possible after laparotomy and colorectal resection. Thus, the laparoscopic surgeon's claim of early tolerated oral intake may not be unique to laparoscopy."
+    },
+    {
+        "idx": 79,
+        "is_mcq": true,
+        "question": "Surgical treatment of prosthetic valve endocarditis in patients with double prostheses: is single-valve replacement safe?",
+        "options": {
+            "A": "yes",
+            "B": "no",
+            "C": "maybe"
+        },
+        "answer": "A",
+        "answer_text": "yes",
+        "answer_long": "TEE allowed a diagnosis of site involvement that did correlate with the anatomic diagnosis obtained during the operation. This fact contributed to the management of patients and was of great help in guiding the surgical intervention. Echo-oriented single-valve replacement may be a safe strategy for patients with PVE and double prostheses."
+    },
+    {
+        "idx": 80,
+        "is_mcq": true,
+        "question": "Prompting Primary Care Providers about Increased Patient Risk As a Result of Family History: Does It Work?",
+        "options": {
+            "A": "yes",
+            "B": "no",
+            "C": "maybe"
+        },
+        "answer": "B",
+        "answer_text": "no",
+        "answer_long": "No change occurred upon instituting simple, at-the-visit family history prompts geared to improve PCPs' ability to identify patients at high risk for 6 common conditions. The results are both surprising and disappointing. Further studies should examine physicians' perception of the utility of prompts for family history risk."
+    },
+    {
+        "idx": 81,
+        "is_mcq": true,
+        "question": "Is high-sensitivity C-reactive protein associated with carotid atherosclerosis in healthy Koreans?",
+        "options": {
+            "A": "yes",
+            "B": "no",
+            "C": "maybe"
+        },
+        "answer": "B",
+        "answer_text": "no",
+        "answer_long": "Both hsCRP levels and the carotid IMT were strongly correlated with conventional cardiovascular risk factors, but there was no independent association between hsCRP levels and carotid IMT in healthy Korean adults."
+    },
+    {
+        "idx": 82,
+        "is_mcq": true,
+        "question": "Quaternary cytoreductive surgery in ovarian cancer: does surgical effort still matter?",
+        "options": {
+            "A": "yes",
+            "B": "no",
+            "C": "maybe"
+        },
+        "answer": "A",
+        "answer_text": "yes",
+        "answer_long": "Even in this highly advanced setting of the third EOC relapse, maximal therapeutic effort combining optimal surgery and chemotherapy appear to significantly prolong survival in a selected patients 'group'."
+    },
+    {
+        "idx": 83,
+        "is_mcq": true,
+        "question": "Does anastomotic leakage affect functional outcome after rectal resection for cancer?",
+        "options": {
+            "A": "yes",
+            "B": "no",
+            "C": "maybe"
+        },
+        "answer": "B",
+        "answer_text": "no",
+        "answer_long": "Continence function remained undisturbed after anastomotic leakage due to rectal resection"
+    },
+    {
+        "idx": 84,
+        "is_mcq": true,
+        "question": "Do mossy fibers release GABA?",
+        "options": {
+            "A": "yes",
+            "B": "no",
+            "C": "maybe"
+        },
+        "answer": "A",
+        "answer_text": "yes",
+        "answer_long": "We have thus provided compelling evidence that there is a mossy fiber GABAergic signal. The physiologic role of this mossy fiber GABAergic signal is uncertain, but may be of developmental importance. Other evidence suggests that this GABAergic signal is transiently upregulated after seizures. This could have an inhibitory or disinhibitory effect, and further work is needed to elucidate its actual role."
+    },
+    {
+        "idx": 85,
+        "is_mcq": true,
+        "question": "Appendectomy timing: Will delayed surgery increase the complications?",
+        "options": {
+            "A": "yes",
+            "B": "no",
+            "C": "maybe"
+        },
+        "answer": "B",
+        "answer_text": "no",
+        "answer_long": "In our study, it was observed that although longer ETA was associated with longer hospitalization, ETA was not correlated with postoperative complications. Our results inclined toward the position that appendectomy can be performed as a semielective surgery."
+    },
+    {
+        "idx": 86,
+        "is_mcq": true,
+        "question": "Proliferative index obtained by DNA image cytometry. Does it add prognostic information in Auer IV breast cancer?",
+        "options": {
+            "A": "yes",
+            "B": "no",
+            "C": "maybe"
+        },
+        "answer": "A",
+        "answer_text": "yes",
+        "answer_long": "According to ICM-DNA values corresponding to the S + G2/M region, patients with breast cancers classified as Auer IV can be divided into subgroups with different tumor characteristics and prognoses."
+    },
+    {
+        "idx": 87,
+        "is_mcq": true,
+        "question": "Is trabecular bone related to primary stability of miniscrews?",
+        "options": {
+            "A": "yes",
+            "B": "no",
+            "C": "maybe"
+        },
+        "answer": "A",
+        "answer_text": "yes",
+        "answer_long": "Cancellous bone plays an important role in primary stability of mini-implants in the presence or absence of cortical bone."
+    },
+    {
+        "idx": 88,
+        "is_mcq": true,
+        "question": "Can distal ureteral diameter predict reflux resolution after endoscopic injection?",
+        "options": {
+            "A": "yes",
+            "B": "no",
+            "C": "maybe"
+        },
+        "answer": "A",
+        "answer_text": "yes",
+        "answer_long": "UDR provides an objective measurement of VUR and appears as a predictive tool of success after endoscopic injection."
+    },
+    {
+        "idx": 89,
+        "is_mcq": true,
+        "question": "Is oral endotracheal intubation efficacy impaired in the helicopter environment?",
+        "options": {
+            "A": "yes",
+            "B": "no",
+            "C": "maybe"
+        },
+        "answer": "A",
+        "answer_text": "yes",
+        "answer_long": "Oral endotracheal intubation in the in-flight setting of the BO-105 helicopter takes approximately twice as long as intubation in a ground setting. The results support pre-flight intubation of patients who appear likely to require urgent intubation during air medical transport in the BO-105 helicopter."
+    },
+    {
+        "idx": 90,
+        "is_mcq": true,
+        "question": "Does the radiographic transition zone correlate with the level of aganglionosis on the specimen in Hirschsprung's disease?",
+        "options": {
+            "A": "yes",
+            "B": "no",
+            "C": "maybe"
+        },
+        "answer": "B",
+        "answer_text": "no",
+        "answer_long": "Correlation between level of radiographic transition zone on contrast enema and length of aganglionosis remains low. Systematic preoperative biopsy by coelioscopy or ombilical incision is mandatory."
+    },
+    {
+        "idx": 91,
+        "is_mcq": true,
+        "question": "Factors determining the survival of nasopharyngeal carcinoma with lung metastasis alone: does combined modality treatment benefit?",
+        "options": {
+            "A": "yes",
+            "B": "no",
+            "C": "maybe"
+        },
+        "answer": "A",
+        "answer_text": "yes",
+        "answer_long": "Age \u2264 45 years, DFI>1 year, and the combined therapy were good prognostic factors for NPC patients with lung metastasis(es) alone. The combination of local therapy and the basic chemotherapy should be considered for these patients with DFI>1 year."
+    },
+    {
+        "idx": 92,
+        "is_mcq": true,
+        "question": "Is the advanced age a contraindication to GERD laparoscopic surgery?",
+        "options": {
+            "A": "yes",
+            "B": "no",
+            "C": "maybe"
+        },
+        "answer": "B",
+        "answer_text": "no",
+        "answer_long": "Laparoscopic antireflux surgery is a safe and effective treatment for GERD even in elderly patients, warranting low morbidity and mortality rates and a significant improvement of symptoms comparable to younger patients."
+    },
+    {
+        "idx": 93,
+        "is_mcq": true,
+        "question": "Regional anesthesia as compared with general anesthesia for surgery in geriatric patients with hip fracture: does it decrease morbidity, mortality, and health care costs?",
+        "options": {
+            "A": "yes",
+            "B": "no",
+            "C": "maybe"
+        },
+        "answer": "B",
+        "answer_text": "no",
+        "answer_long": "There is no difference in postoperative morbidity, rates of rehospitalization, in-patient mortality or hospitalization costs in geriatric patients undergoing regional or general anesthesia for repair of hip fracture. Delay in surgery beyond 3 days and ICU admission both increase cost of hospitalization."
+    },
+    {
+        "idx": 94,
+        "is_mcq": true,
+        "question": "Is it appropriate to implant kidneys from elderly donors in young recipients?",
+        "options": {
+            "A": "yes",
+            "B": "no",
+            "C": "maybe"
+        },
+        "answer": "A",
+        "answer_text": "yes",
+        "answer_long": "We conclude that patient and graft survival on transplanting kidneys from elderly donors to young recipients is superimposable on that obtained with young donors. However, renal function is better in the group of young donors."
+    },
+    {
+        "idx": 95,
+        "is_mcq": true,
+        "question": "Do liquid-based preparations of urinary cytology perform differently than classically prepared cases?",
+        "options": {
+            "A": "yes",
+            "B": "no",
+            "C": "maybe"
+        },
+        "answer": "A",
+        "answer_text": "yes",
+        "answer_long": "Liquid-based preparations performed significantly better in urinary cytology challenges when evaluating malignant categories in the College of American Pathologists interlaboratory comparison program. The liquid-based preparation challenges also performed better for the exact reference interpretation of HGUCA, but no difference was observed for adenocarcinoma challenges. Cytotechnologists perform better than pathologists for all slide types, as well as those demonstrating HGUCA. These results suggest that liquid-based preparations facilitate a more accurate diagnosis than conventional preparations."
+    },
+    {
+        "idx": 96,
+        "is_mcq": true,
+        "question": "CPAP therapy in patients with idiopathic pulmonary fibrosis and obstructive sleep apnea: does it offer a better quality of life and sleep?",
+        "options": {
+            "A": "yes",
+            "B": "no",
+            "C": "maybe"
+        },
+        "answer": "C",
+        "answer_text": "maybe",
+        "answer_long": "Effective CPAP treatment in IPF patients with OSA results in a significant improvement in daily living activities based on the FOSQ, namely an OSA-specific follow-up instrument. Improvement was also noted in other questionnaires assessing quality of life, though not to a statistically significant degree, probably because of the multifactorial influences of IPF on physical and mental health. The probability of poor CPAP compliance was high and could only be eliminated with intense follow-up by the CPAP clinic staff."
+    },
+    {
+        "idx": 97,
+        "is_mcq": true,
+        "question": "Does HER2 immunoreactivity provide prognostic information in locally advanced urothelial carcinoma patients receiving adjuvant M-VEC chemotherapy?",
+        "options": {
+            "A": "yes",
+            "B": "no",
+            "C": "maybe"
+        },
+        "answer": "C",
+        "answer_text": "maybe",
+        "answer_long": "HER2 immunoreactivity might have a limited prognostic value for advanced urothelial carcinoma patients with adjuvant M-VEC."
+    },
+    {
+        "idx": 98,
+        "is_mcq": true,
+        "question": "Can infundibular height predict the clearance of lower pole calyceal stone after extracorporeal shockwave lithotripsy?",
+        "options": {
+            "A": "yes",
+            "B": "no",
+            "C": "maybe"
+        },
+        "answer": "A",
+        "answer_text": "yes",
+        "answer_long": "Lower Infundibular height could be a good measurement tool for deciding which patients with lower calyceal lithiasis would benefit from SWL treatment. Height of less than 22 mm suggests a good outcome from lithotripsy."
+    },
+    {
+        "idx": 99,
+        "is_mcq": true,
+        "question": "Do inhaled steroids differ from cromones in terms of hospital admission rates for asthma in children?",
+        "options": {
+            "A": "yes",
+            "B": "no",
+            "C": "maybe"
+        },
+        "answer": "A",
+        "answer_text": "yes",
+        "answer_long": "Our results suggest that inhaled steroids are better than cromones in preventing admissions for asthma when two provinces with different practices for maintenance medication of steady-state asthma were compared."
+    }
+]

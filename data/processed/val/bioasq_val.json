@@ -1,0 +1,254 @@
+[
+    {
+        "idx": 0,
+        "is_mcq": false,
+        "question": "Which type of lung cancer is afatinib used for?",
+        "answer": "EGFR-mutant NSCLC"
+    },
+    {
+        "idx": 1,
+        "is_mcq": false,
+        "question": "Rindopepimut is an analog of which growth factor?",
+        "answer": "EGFRvIII"
+    },
+    {
+        "idx": 2,
+        "is_mcq": false,
+        "question": "Which enzyme is targeted by Evolocumab?",
+        "answer": "proprotein convertase subtilisin/kexin type 9"
+    },
+    {
+        "idx": 3,
+        "is_mcq": false,
+        "question": "Which molecule is targeted by a monoclonal antibody Secukinumab?",
+        "answer": "interleukin-17A"
+    },
+    {
+        "idx": 4,
+        "is_mcq": false,
+        "question": "Which calcium/calmodulin dependent protein phosphatase is involved in the activation of the family of NFAT transcription factors (Nuclear Factors of Activated T cells)?",
+        "answer": "calcineurin"
+    },
+    {
+        "idx": 5,
+        "is_mcq": false,
+        "question": "What does mTOR stands for?",
+        "answer": "mammalian target of rapamycin"
+    },
+    {
+        "idx": 6,
+        "is_mcq": false,
+        "question": "What kind of chromatography is HILIC?",
+        "answer": "Hydrophilic Interaction Chromatography"
+    },
+    {
+        "idx": 7,
+        "is_mcq": false,
+        "question": "The small molecule SEA0400 is an inhibitor of which ion antiporter/exchanger?",
+        "answer": "NCX"
+    },
+    {
+        "idx": 8,
+        "is_mcq": false,
+        "question": "Which is the RNA sequence of the canonical polyadenylation signal?",
+        "answer": "AAUAAA"
+    },
+    {
+        "idx": 9,
+        "is_mcq": false,
+        "question": "Which is the E3 ubiquitin ligase which ubiquitinates IkB leading to its proteasomal degradation?",
+        "answer": "SCF(\u03b2-TrCP)"
+    },
+    {
+        "idx": 10,
+        "is_mcq": false,
+        "question": "Which disease of the central nervous system is characterized by the presence of Lewy bodies?",
+        "answer": "Parkinson's disease (PD)"
+    },
+    {
+        "idx": 11,
+        "is_mcq": false,
+        "question": "Which disease is associated with the ectopic expression of the protein encoded by the gene DUX4?",
+        "answer": "FSHD"
+    },
+    {
+        "idx": 12,
+        "is_mcq": false,
+        "question": "Mutation of which gene is implicated in the familial isolated pituitary adenoma?",
+        "answer": "aryl hydrocarbon receptor interacting protein"
+    },
+    {
+        "idx": 13,
+        "is_mcq": false,
+        "question": "What is the sedimentation coefficient of the mammalian mitoribosome?",
+        "answer": "55 S"
+    },
+    {
+        "idx": 14,
+        "is_mcq": false,
+        "question": "Which is the database of molecular recognition features in membrane proteins?",
+        "answer": "mpMoRFsDB"
+    },
+    {
+        "idx": 15,
+        "is_mcq": false,
+        "question": "Which database is available for the identification of chorion proteins in Lepidopteran proteomes?",
+        "answer": "LepChorionDB"
+    },
+    {
+        "idx": 16,
+        "is_mcq": false,
+        "question": "In which phase of cell cycle does  stress-induced transcription-associated mutagenesis (TAM) occur?",
+        "answer": "stationary phase"
+    },
+    {
+        "idx": 17,
+        "is_mcq": false,
+        "question": "How is bladder wall thickness measured?",
+        "answer": "ultrasound"
+    },
+    {
+        "idx": 18,
+        "is_mcq": false,
+        "question": "What is the inheritance pattern of Apert syndrome?",
+        "answer": "autosomal dominant"
+    },
+    {
+        "idx": 19,
+        "is_mcq": false,
+        "question": "From which tissue was the NCI-H520 cell-line derived?",
+        "answer": "lung"
+    },
+    {
+        "idx": 20,
+        "is_mcq": false,
+        "question": "Which gene is associated with Muenke syndrome?",
+        "answer": "fibroblast growth factor receptor 3 (FGFR3)"
+    },
+    {
+        "idx": 21,
+        "is_mcq": false,
+        "question": "Which hormone deficiency is implicated in the Costello syndrome ?",
+        "answer": "growth hormone"
+    },
+    {
+        "idx": 22,
+        "is_mcq": false,
+        "question": "Which drug is benserazide usually co-administered with?",
+        "answer": "L-dopa"
+    },
+    {
+        "idx": 23,
+        "is_mcq": false,
+        "question": "What is the life expectancy of professional athletes in respect to the general population?",
+        "answer": "longer than the general population"
+    },
+    {
+        "idx": 24,
+        "is_mcq": false,
+        "question": "Which deficiency is the cause of restless leg syndrome?",
+        "answer": "iron"
+    },
+    {
+        "idx": 25,
+        "is_mcq": false,
+        "question": "Which hormone abnormalities are common in Williams syndrome ?",
+        "answer": "thyroid"
+    },
+    {
+        "idx": 26,
+        "is_mcq": false,
+        "question": "How many genes outside of the MHC locus have been genetically associated to Rheumatoid Arthritis through GWAS?",
+        "answer": "more than 30"
+    },
+    {
+        "idx": 27,
+        "is_mcq": false,
+        "question": "What tyrosine kinase, involved in a Philadelphia- chromosome positive chronic myelogenous leukemia, is the target of Imatinib (Gleevec)?",
+        "answer": "BCR-ABL"
+    },
+    {
+        "idx": 28,
+        "is_mcq": false,
+        "question": "What histone trimethylation has been associated to RNA splicing?",
+        "answer": "H3K36me3"
+    },
+    {
+        "idx": 29,
+        "is_mcq": false,
+        "question": "Which gene is involved in CADASIL?",
+        "answer": "NOTCH3 gene"
+    },
+    {
+        "idx": 30,
+        "is_mcq": false,
+        "question": "Which is the third subunit of the TSC1-TSC2 complex upstream of mTORC1?",
+        "answer": "TBC1D7"
+    },
+    {
+        "idx": 31,
+        "is_mcq": false,
+        "question": "Which is the  subcellular localization of ERAP2?",
+        "answer": "luminal side of the endoplasmic reticulum"
+    },
+    {
+        "idx": 32,
+        "is_mcq": false,
+        "question": "Is Rheumatoid Arthritis more common in men or women?",
+        "answer": "women"
+    },
+    {
+        "idx": 33,
+        "is_mcq": false,
+        "question": "What is the methyl donor of DNA (cytosine-5)-methyltransferases?",
+        "answer": "S-adenosyl-L-methionine"
+    },
+    {
+        "idx": 34,
+        "is_mcq": false,
+        "question": "Which is the vector of Louping ill virus?",
+        "answer": "Ixodes ricinus"
+    },
+    {
+        "idx": 35,
+        "is_mcq": false,
+        "question": "Which is the neurodevelopmental disorder associated to mutations in the X- linked gene mecp2?",
+        "answer": "Rett syndrome"
+    },
+    {
+        "idx": 36,
+        "is_mcq": false,
+        "question": "Which is the most widely used anti-TNF drug?",
+        "answer": "etanercept"
+    },
+    {
+        "idx": 37,
+        "is_mcq": false,
+        "question": "How many genera comprise the Flaviviridae family?",
+        "answer": "three"
+    },
+    {
+        "idx": 38,
+        "is_mcq": false,
+        "question": "How many tissue kallikrein genes are present in the human genome?",
+        "answer": "15"
+    },
+    {
+        "idx": 39,
+        "is_mcq": false,
+        "question": "Which is the defective protein causing the lysosomal storage disease Fabry?",
+        "answer": "alpha-galactosidase A"
+    },
+    {
+        "idx": 40,
+        "is_mcq": false,
+        "question": "Which pituitary adenoma is common cause of infertility is women?",
+        "answer": "Prolactinoma"
+    },
+    {
+        "idx": 41,
+        "is_mcq": false,
+        "question": "How many selenoproteins are encoded in the human genome?",
+        "answer": "25"
+    }
+]

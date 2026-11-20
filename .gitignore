@@ -1,0 +1,29 @@
+# secrets
+api_keys.json
+
+# python
+__pycache__/
+*.pyc
+
+# large or generated data (processed splits are tracked)
+data/original/
+data/samples/
+data/chains/
+data/trees/
+data/shards/
+data/pairwise_prm/
+checkpoints/
+*.pt
+*.pickle
+*.tar
+
+# run outputs
+logs/
+evaluation_results/
+
+# not part of the public release
+baselines/
+upload_prm_hf.py
+
+# local analysis scripts
+visualization/

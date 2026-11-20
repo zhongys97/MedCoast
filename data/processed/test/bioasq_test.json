@@ -1,0 +1,1952 @@
+[
+    {
+        "idx": 0,
+        "is_mcq": false,
+        "question": "Name synonym of Acrokeratosis paraneoplastica.",
+        "answer": "Bazex syndrome"
+    },
+    {
+        "idx": 1,
+        "is_mcq": false,
+        "question": "Orteronel was developed for treatment of which cancer?",
+        "answer": "castration-resistant prostate cancer"
+    },
+    {
+        "idx": 2,
+        "is_mcq": false,
+        "question": "Where is the protein Pannexin1 located?",
+        "answer": "plasma membrane"
+    },
+    {
+        "idx": 3,
+        "is_mcq": false,
+        "question": "What is the mode of inheritance of Wilson's disease?",
+        "answer": "autosomal recessive"
+    },
+    {
+        "idx": 4,
+        "is_mcq": false,
+        "question": "What is the mode of inheritance of Facioscapulohumeral muscular dystrophy (FSHD)?",
+        "answer": "autosomal dominant"
+    },
+    {
+        "idx": 5,
+        "is_mcq": false,
+        "question": "What kind of chromatography is HILIC?",
+        "answer": "Hydrophilic Interaction Chromatography"
+    },
+    {
+        "idx": 6,
+        "is_mcq": false,
+        "question": "What is the structural fold of bromodomain proteins?",
+        "answer": "all-alpha-helical fold"
+    },
+    {
+        "idx": 7,
+        "is_mcq": false,
+        "question": "Which MAP kinase phosphorylates the transcription factor c-jun?",
+        "answer": "JNK"
+    },
+    {
+        "idx": 8,
+        "is_mcq": false,
+        "question": "Which fusion protein is involved in the development of Ewing sarcoma?",
+        "answer": "EWS/FLI1"
+    },
+    {
+        "idx": 9,
+        "is_mcq": false,
+        "question": "Treatment of which disease was investigated in the MR CLEAN study?",
+        "answer": "acute ischemic stroke"
+    },
+    {
+        "idx": 10,
+        "is_mcq": false,
+        "question": "Which enzyme is targeted by Evolocumab?",
+        "answer": "proprotein convertase subtilisin/kexin type 9"
+    },
+    {
+        "idx": 11,
+        "is_mcq": false,
+        "question": "What is the methyl donor of DNA (cytosine-5)-methyltransferases?",
+        "answer": "S-adenosyl-L-methionine"
+    },
+    {
+        "idx": 12,
+        "is_mcq": false,
+        "question": "Mutation of which gene is implicated in the familial isolated pituitary adenoma?",
+        "answer": "aryl hydrocarbon receptor interacting protein"
+    },
+    {
+        "idx": 13,
+        "is_mcq": false,
+        "question": "GV1001 vaccine targets which enzyme?",
+        "answer": "human telomerase reverse transcriptase"
+    },
+    {
+        "idx": 14,
+        "is_mcq": false,
+        "question": "Which is the E3 ubiquitin ligase which ubiquitinates IkB leading to its proteasomal degradation?",
+        "answer": "SCF(\u03b2-TrCP)"
+    },
+    {
+        "idx": 15,
+        "is_mcq": false,
+        "question": "Mutation of which gene is implicated in the Brain-lung-thyroid syndrome?",
+        "answer": "thyroid transcription factor 1"
+    },
+    {
+        "idx": 16,
+        "is_mcq": false,
+        "question": "Which enzyme is targeted by the drug Imetelstat?",
+        "answer": "human telomerase"
+    },
+    {
+        "idx": 17,
+        "is_mcq": false,
+        "question": "Which transcription factor is considered as a master regulator of lysosomal genes?",
+        "answer": "transcription factor EB (TFEB)"
+    },
+    {
+        "idx": 18,
+        "is_mcq": false,
+        "question": "Which is the human selenoprotein that contains several Se-Cys residues?",
+        "answer": "selenoprotein P"
+    },
+    {
+        "idx": 19,
+        "is_mcq": false,
+        "question": "Which package is available for analysing genomic interactions in R/Bioconductor?",
+        "answer": "r3Cseq"
+    },
+    {
+        "idx": 20,
+        "is_mcq": false,
+        "question": "How many clinical trials for off-label drugs in neonates are cited in the literature.",
+        "answer": "0"
+    },
+    {
+        "idx": 21,
+        "is_mcq": false,
+        "question": "What enzyme is inhibied by Opicapone?",
+        "answer": "catechol-O-methyltransferase"
+    },
+    {
+        "idx": 22,
+        "is_mcq": false,
+        "question": "Which is the genetic basis of Spinal Muscular Atrophy (SMA)?",
+        "answer": "The molecular genetic basis of spinal muscular atrophy (SMA), an autosomal recessive neuromuscular disorder, is the loss of function of the survival motor neuron gene (SMN1)"
+    },
+    {
+        "idx": 23,
+        "is_mcq": false,
+        "question": "Which is the third subunit of the TSC1-TSC2 complex upstream of mTORC1?",
+        "answer": "TBC1D7"
+    },
+    {
+        "idx": 24,
+        "is_mcq": false,
+        "question": "Which kinase is inhibited by the small molecule KN-93?",
+        "answer": "CaM kinase II"
+    },
+    {
+        "idx": 25,
+        "is_mcq": false,
+        "question": "What are 'vildagliptin', 'sitagliptin', 'saxagliptin', 'alogliptin', 'linagliptin', and 'dutogliptin'?",
+        "answer": "dipeptidyl peptidase-4 (DPP-4) inhibitors"
+    },
+    {
+        "idx": 26,
+        "is_mcq": false,
+        "question": "What is needed for MMP proteins to be functional?",
+        "answer": "zinc"
+    },
+    {
+        "idx": 27,
+        "is_mcq": false,
+        "question": "What is hyperosmia",
+        "answer": "increased olfactory acuity"
+    },
+    {
+        "idx": 28,
+        "is_mcq": false,
+        "question": "Which is the most known bacterium responsible for botulism (sausage-poisoning)?",
+        "answer": "Clostridium botulinum"
+    },
+    {
+        "idx": 29,
+        "is_mcq": false,
+        "question": "What is the association of spermidine with \u03b1-synuclein neurotoxicity?",
+        "answer": "Spermidine protects against \u03b1-synuclein neurotoxicity"
+    },
+    {
+        "idx": 30,
+        "is_mcq": false,
+        "question": "Where is the histone variant CENPA preferentially localized?",
+        "answer": "centromeres"
+    },
+    {
+        "idx": 31,
+        "is_mcq": false,
+        "question": "Which is the cellular localization of the protein Opa1?",
+        "answer": "mitochondrial intermembrane space"
+    },
+    {
+        "idx": 32,
+        "is_mcq": false,
+        "question": "Which genome browser database for DNA shape annotations is available?",
+        "answer": "GBshape"
+    },
+    {
+        "idx": 33,
+        "is_mcq": false,
+        "question": "What is the enzymatic activity of the breast cancer associated gene BRCA1?",
+        "answer": "E3 ubiquitin ligase activity"
+    },
+    {
+        "idx": 34,
+        "is_mcq": false,
+        "question": "Which metabolite activates AtxA?",
+        "answer": "CO2"
+    },
+    {
+        "idx": 35,
+        "is_mcq": false,
+        "question": "Which amino acid residue appears mutated in most of the cases reported with  cadasil syndrome?",
+        "answer": "cysteine"
+    },
+    {
+        "idx": 36,
+        "is_mcq": false,
+        "question": "Is the transcriptional regulator BACH1 an activator or a repressor?",
+        "answer": "repressor"
+    },
+    {
+        "idx": 37,
+        "is_mcq": false,
+        "question": "What is the disease in which patients are sensitive to DNA crosslinking agents, presenting with a high frequency of chromosomal aberrations?",
+        "answer": "Fanconi anemia"
+    },
+    {
+        "idx": 38,
+        "is_mcq": false,
+        "question": "How is oprozomib administered?",
+        "answer": "orally"
+    },
+    {
+        "idx": 39,
+        "is_mcq": false,
+        "question": "Which syndrome is associated with mutant DVL1?",
+        "answer": "Robinow syndrome"
+    },
+    {
+        "idx": 40,
+        "is_mcq": false,
+        "question": "What is the target of the drug Olaparib?",
+        "answer": "PARP"
+    },
+    {
+        "idx": 41,
+        "is_mcq": false,
+        "question": "Inhibition of which transporter is the mechanism of action of drug Canagliflozin?",
+        "answer": "Sodium glucose co-transporter 2"
+    },
+    {
+        "idx": 42,
+        "is_mcq": false,
+        "question": "Which gene strand is targeted by transcription-coupled repair (TCR)?",
+        "answer": "the transcribed strand"
+    },
+    {
+        "idx": 43,
+        "is_mcq": false,
+        "question": "Which is the branch site consensus sequence in U12-dependent introns?",
+        "answer": "UUCCUUAAC"
+    },
+    {
+        "idx": 44,
+        "is_mcq": false,
+        "question": "What is the suggested therapy for Mycobacterium avium infection?",
+        "answer": "Rifampin 10 mg/kg daily, ciprofloxacin 500 mg twice daily, clofazimine 100 mg every day, and ethambutol 15 mg/kg orally daily for 24 weeks, with or without amikacin 10 mg/kg intravenously or intramuscularly 5 days weekly for the first 4 weeks"
+    },
+    {
+        "idx": 45,
+        "is_mcq": false,
+        "question": "Which enzyme does MLN4924 inhibit?",
+        "answer": "NEDD8-activating enzyme"
+    },
+    {
+        "idx": 46,
+        "is_mcq": false,
+        "question": "Which protein has been found to interact with phospholamban (PLN) and is also an anti-apoptotic protein?",
+        "answer": "(HAX-1)"
+    },
+    {
+        "idx": 47,
+        "is_mcq": false,
+        "question": "What is the generic name of Gliolan?",
+        "answer": "5-aminolevulinic acid"
+    },
+    {
+        "idx": 48,
+        "is_mcq": false,
+        "question": "Which protein is the E3-ubiquitin ligase that targets the tumor suppressor p53 for proteasomal degradation?",
+        "answer": "the human homologue of Mdm2 (Hdm2)"
+    },
+    {
+        "idx": 49,
+        "is_mcq": false,
+        "question": "What is the causative agent of the \"Panama disease\" affecting bananas?",
+        "answer": "Fusarium oxysporum f. sp. cubense"
+    },
+    {
+        "idx": 50,
+        "is_mcq": false,
+        "question": "Which biomarker is widely used in the diagnosis of Ewing sarcoma?",
+        "answer": "CD99"
+    },
+    {
+        "idx": 51,
+        "is_mcq": false,
+        "question": "Name monoclonal antibody against SLAMF7.",
+        "answer": "signaling lymphocytic activation molecule-F7"
+    },
+    {
+        "idx": 52,
+        "is_mcq": false,
+        "question": "Which enzyme deficiency can cause GM1 gangliosidoses?",
+        "answer": "\u03b2-galactosidase"
+    },
+    {
+        "idx": 53,
+        "is_mcq": false,
+        "question": "What is the characteristic feature of the Dyke-Davidoff-Masson syndrome.",
+        "answer": "cerebral hemiatrophy"
+    },
+    {
+        "idx": 54,
+        "is_mcq": false,
+        "question": "Which gene is involved in the development of Barth syndrome?",
+        "answer": "tafazzin (TAZ) gene"
+    },
+    {
+        "idx": 55,
+        "is_mcq": false,
+        "question": "How many genera comprise the Flaviviridae family?",
+        "answer": "three"
+    },
+    {
+        "idx": 56,
+        "is_mcq": false,
+        "question": "Mutation of which gene is associated with Achondroplasia?",
+        "answer": "fibroblast growth factor receptor 3 (FGFR3)"
+    },
+    {
+        "idx": 57,
+        "is_mcq": false,
+        "question": "Which type of lung cancer is the most strongly associated with Lambert-Eaton syndrome?",
+        "answer": "small-cell lung cancer"
+    },
+    {
+        "idx": 58,
+        "is_mcq": false,
+        "question": "The antibodies MK-3475 and CT-011 have shown promising results in treating malignancies. Which protein are they targeting?",
+        "answer": "PD-1"
+    },
+    {
+        "idx": 59,
+        "is_mcq": false,
+        "question": "What family do mDia proteins belong in?",
+        "answer": "mDia proteins are members of the formin family"
+    },
+    {
+        "idx": 60,
+        "is_mcq": false,
+        "question": "Which is the most common measure of differences between dinucleotide relative abundance \"genomic signatures\"",
+        "answer": "delta-distance"
+    },
+    {
+        "idx": 61,
+        "is_mcq": false,
+        "question": "Name a method for enrichment of arginine-methylated peptides.",
+        "answer": "immunoaffinity purification"
+    },
+    {
+        "idx": 62,
+        "is_mcq": false,
+        "question": "Rindopepimut is an analog of which growth factor?",
+        "answer": "EGFRvIII"
+    },
+    {
+        "idx": 63,
+        "is_mcq": false,
+        "question": "From which tissue was the NCI-H520 cell-line derived?",
+        "answer": "squamous cell carcinoma"
+    },
+    {
+        "idx": 64,
+        "is_mcq": false,
+        "question": "What is the incidence of Edwards syndrom in the european population?",
+        "answer": "1:5000"
+    },
+    {
+        "idx": 65,
+        "is_mcq": false,
+        "question": "What is the substrate of the microbial enzyme inulinase?",
+        "answer": "The inulinase acts on the beta-(2,1)-D-fructoside links in inulin releasing D-fructose."
+    },
+    {
+        "idx": 66,
+        "is_mcq": false,
+        "question": "What tyrosine kinase, involved in a Philadelphia- chromosome positive chronic myelogenous leukemia, is the target of Imatinib (Gleevec)?",
+        "answer": "BCR-ABL"
+    },
+    {
+        "idx": 67,
+        "is_mcq": false,
+        "question": "When was empagliflozin FDA approved?",
+        "answer": "2014"
+    },
+    {
+        "idx": 68,
+        "is_mcq": false,
+        "question": "Which R/bioconductor package is used for integrative genomics visualizations?",
+        "answer": "Sushi.R"
+    },
+    {
+        "idx": 69,
+        "is_mcq": false,
+        "question": "How many genes are imprinted in the human genome?",
+        "answer": "fewer than 100"
+    },
+    {
+        "idx": 70,
+        "is_mcq": false,
+        "question": "Gene silencing can be achieved by RNA interference (RNAi) in eukaryotic organisms. What is the name of the analogous process in prokaryotic organisms?",
+        "answer": "CRISPR-Cas"
+    },
+    {
+        "idx": 71,
+        "is_mcq": false,
+        "question": "Which is the most common cause of sudden cardiac death in young athletes?",
+        "answer": "Hypertrophic cardiomyopathy"
+    },
+    {
+        "idx": 72,
+        "is_mcq": false,
+        "question": "Which gene is involved in Giant Axonal Neuropathy?",
+        "answer": "GAN gene"
+    },
+    {
+        "idx": 73,
+        "is_mcq": false,
+        "question": "How many TAp73 isoforms have been identified in humans?",
+        "answer": "7"
+    },
+    {
+        "idx": 74,
+        "is_mcq": false,
+        "question": "Which is the  subcellular localization of ERAP2?",
+        "answer": "luminal side of the endoplasmic reticulum"
+    },
+    {
+        "idx": 75,
+        "is_mcq": false,
+        "question": "Which deficiency is the cause of restless leg syndrome?",
+        "answer": "iron"
+    },
+    {
+        "idx": 76,
+        "is_mcq": false,
+        "question": "What histone modification is recognized by the bromodomain?",
+        "answer": "acetylated lysines"
+    },
+    {
+        "idx": 77,
+        "is_mcq": false,
+        "question": "How many periods of regulatory innovation led to the evolution of vertebrates?",
+        "answer": "Three"
+    },
+    {
+        "idx": 78,
+        "is_mcq": false,
+        "question": "Which hormone abnormalities are common in Williams syndrome ?",
+        "answer": "thyroid"
+    },
+    {
+        "idx": 79,
+        "is_mcq": false,
+        "question": "Which residue of alpha-synuclein was found to be phosphorylated in Lewy bodies?",
+        "answer": "serine 129"
+    },
+    {
+        "idx": 80,
+        "is_mcq": false,
+        "question": "What molecule is targeted by brodalumab?",
+        "answer": "interleukin-17"
+    },
+    {
+        "idx": 81,
+        "is_mcq": false,
+        "question": "Which is the gene mutated in type 1 neurofibromatosis?",
+        "answer": "NF1"
+    },
+    {
+        "idx": 82,
+        "is_mcq": false,
+        "question": "What is the mode of inheritance of nemaline myopathy?",
+        "answer": "Autosomal recessive"
+    },
+    {
+        "idx": 83,
+        "is_mcq": false,
+        "question": "Which syndrome is NHE6 associated with?",
+        "answer": "Christianson syndrome"
+    },
+    {
+        "idx": 84,
+        "is_mcq": false,
+        "question": "Against which protein is the antibody used for immonostaining of Lewy bodies raised?",
+        "answer": "alpha-synuclein"
+    },
+    {
+        "idx": 85,
+        "is_mcq": false,
+        "question": "Which disease can be treated with Delamanid?",
+        "answer": "tuberculosis"
+    },
+    {
+        "idx": 86,
+        "is_mcq": false,
+        "question": "What is situs inversus?",
+        "answer": "Situs inversus totalis is a rare congenital anomaly with a complete mirror image of the thoracic and abdominal organs."
+    },
+    {
+        "idx": 87,
+        "is_mcq": false,
+        "question": "Which is the most typical peptide sequence responsible for retrieval of endoplasmic reticulum (ER) lumenal proteins from the Golgi apparatus?",
+        "answer": "The carboxyl-terminal Lys-Asp-Glu-Leu (KDEL)"
+    },
+    {
+        "idx": 88,
+        "is_mcq": false,
+        "question": "Which molecule is targeted by a monoclonal antibody Mepolizumab?",
+        "answer": "interleukin-5"
+    },
+    {
+        "idx": 89,
+        "is_mcq": false,
+        "question": "Which is the major symptom of the Doose syndrome?",
+        "answer": "myoclonic astatic epilepsy"
+    },
+    {
+        "idx": 90,
+        "is_mcq": false,
+        "question": "Which eye condition is managed by the athens protocol?",
+        "answer": "Keratoconus"
+    },
+    {
+        "idx": 91,
+        "is_mcq": false,
+        "question": "Is Rheumatoid Arthritis more common in men or women?",
+        "answer": "women"
+    },
+    {
+        "idx": 92,
+        "is_mcq": false,
+        "question": "Which methyl-CpG-binding protein when mutant becomes the hallmark for Rett syndrome?",
+        "answer": "methyl-CpG-binding protein 2 (MeCP2)"
+    },
+    {
+        "idx": 93,
+        "is_mcq": false,
+        "question": "What is the gene mutated in the Gaucher disease?",
+        "answer": "glucocerebrosidase"
+    },
+    {
+        "idx": 94,
+        "is_mcq": false,
+        "question": "Which protein is causing Netherton syndrome?",
+        "answer": "LEKTI"
+    },
+    {
+        "idx": 95,
+        "is_mcq": false,
+        "question": "Which disease of the central nervous system is characterized by the presence of Lewy bodies?",
+        "answer": "Parkinson's disease (PD)"
+    },
+    {
+        "idx": 96,
+        "is_mcq": false,
+        "question": "What molecule is targeted by suvorexant?",
+        "answer": "orexin"
+    },
+    {
+        "idx": 97,
+        "is_mcq": false,
+        "question": "For which type of diabetes can empagliflozin be used?",
+        "answer": "type 2 diabetes mellitus"
+    },
+    {
+        "idx": 98,
+        "is_mcq": false,
+        "question": "How early during pregnancy does non-invasive cffDNA testing allow sex determination of the fetus?",
+        "answer": "first trimester of pregnancy"
+    },
+    {
+        "idx": 99,
+        "is_mcq": false,
+        "question": "What is the life expectancy of professional athletes in respect to the general population?",
+        "answer": "longer than the general population"
+    },
+    {
+        "idx": 100,
+        "is_mcq": false,
+        "question": "Which JAK (Janus kinase) inhibitor is approved for treatment of rheumatoid arthritis?",
+        "answer": "tofacitinib"
+    },
+    {
+        "idx": 101,
+        "is_mcq": false,
+        "question": "How is OCT3 associated with serotonin?",
+        "answer": "serotonin clearance"
+    },
+    {
+        "idx": 102,
+        "is_mcq": false,
+        "question": "Which signaling pathway is activating the dishevelled proteins?",
+        "answer": "Wnt signaling"
+    },
+    {
+        "idx": 103,
+        "is_mcq": false,
+        "question": "Which is the defective protein causing the lysosomal storage disease Fabry?",
+        "answer": "alpha-galactosidase A"
+    },
+    {
+        "idx": 104,
+        "is_mcq": false,
+        "question": "What disease in Loxapine prominently used for?",
+        "answer": "schizophrenia"
+    },
+    {
+        "idx": 105,
+        "is_mcq": false,
+        "question": "Which antibodies cause Riedel thyroiditis?",
+        "answer": "IgG4"
+    },
+    {
+        "idx": 106,
+        "is_mcq": false,
+        "question": "What is generic name of drug Adempas?",
+        "answer": "Riociguat"
+    },
+    {
+        "idx": 107,
+        "is_mcq": false,
+        "question": "What is the target protein of the drug Idelalisib?",
+        "answer": "PI3K-\u03b4"
+    },
+    {
+        "idx": 108,
+        "is_mcq": false,
+        "question": "Which antiepileptic drug is most strongly associated with spina bifida?",
+        "answer": "valproate"
+    },
+    {
+        "idx": 109,
+        "is_mcq": false,
+        "question": "Which bacteria caused plague?",
+        "answer": "Yersinia pestis"
+    },
+    {
+        "idx": 110,
+        "is_mcq": false,
+        "question": "The drug JTV519 is derivative of which group of chemical compounds?",
+        "answer": "benzothiazepine"
+    },
+    {
+        "idx": 111,
+        "is_mcq": false,
+        "question": "Is the long non- coding RNA malat-1 up or downregulated in cancer?",
+        "answer": "upregulated"
+    },
+    {
+        "idx": 112,
+        "is_mcq": false,
+        "question": "Oxantel is used for periodontitis treatment. How does it work?",
+        "answer": "Oxantel disrupts polymicrobial biofilm"
+    },
+    {
+        "idx": 113,
+        "is_mcq": false,
+        "question": "What is apelin?",
+        "answer": "Apelin, a small regulatory peptide, is the endogenous ligand for the apelin receptor (APJ) receptor."
+    },
+    {
+        "idx": 114,
+        "is_mcq": false,
+        "question": "What kind of enzyme is encoded by the proto-oncogene ABL1?",
+        "answer": "nonreceptor tyrosine kinase"
+    },
+    {
+        "idx": 115,
+        "is_mcq": false,
+        "question": "What is the mode of inheritance of Romano Ward long QT syndrome?",
+        "answer": "autosomal dominant"
+    },
+    {
+        "idx": 116,
+        "is_mcq": false,
+        "question": "Which gene is associated with the Mitchell-Riley syndrome?",
+        "answer": "rfx6"
+    },
+    {
+        "idx": 117,
+        "is_mcq": false,
+        "question": "What is the main component of the Lewy bodies?",
+        "answer": "alpha-synuclein"
+    },
+    {
+        "idx": 118,
+        "is_mcq": false,
+        "question": "Which is the enzyme that degrades decapped mRNAs?",
+        "answer": "XRN1"
+    },
+    {
+        "idx": 119,
+        "is_mcq": false,
+        "question": "Which is the target protein of the drug nivolumab?",
+        "answer": "programmed death receptor-1"
+    },
+    {
+        "idx": 120,
+        "is_mcq": false,
+        "question": "What is the functional role of the protein Drp1?",
+        "answer": "mitochondrial fission"
+    },
+    {
+        "idx": 121,
+        "is_mcq": false,
+        "question": "Which type of myeloma is ixazomib being evaluated for?",
+        "answer": "multiple myeloma"
+    },
+    {
+        "idx": 122,
+        "is_mcq": false,
+        "question": "To which family does the Zika virus belong?",
+        "answer": "Flaviviridae"
+    },
+    {
+        "idx": 123,
+        "is_mcq": false,
+        "question": "Which is the molecular mechanism underlying K-ras alterations in carcinomas?",
+        "answer": "point mutations"
+    },
+    {
+        "idx": 124,
+        "is_mcq": false,
+        "question": "What is the main symptom of Marfan syndrome patients?",
+        "answer": "aortic root dissection"
+    },
+    {
+        "idx": 125,
+        "is_mcq": false,
+        "question": "How is myotonic dystrophy inherited?",
+        "answer": "autosomal dominant"
+    },
+    {
+        "idx": 126,
+        "is_mcq": false,
+        "question": "Which protein phosphatase has been found to interact with the heat shock protein, HSP20?",
+        "answer": "PP1"
+    },
+    {
+        "idx": 127,
+        "is_mcq": false,
+        "question": "Neurostimulation of which nucleus is used for treatment of dystonia?",
+        "answer": "globus pallidus internus"
+    },
+    {
+        "idx": 128,
+        "is_mcq": false,
+        "question": "Which hormone deficiency is implicated in the Costello syndrome ?",
+        "answer": "growth hormone"
+    },
+    {
+        "idx": 129,
+        "is_mcq": false,
+        "question": "Which is the most common CFTR mutation in Caucasians?",
+        "answer": "deltaF508"
+    },
+    {
+        "idx": 130,
+        "is_mcq": false,
+        "question": "Simpson grading is used to describe resection of which brain tumor?",
+        "answer": "meningioma"
+    },
+    {
+        "idx": 131,
+        "is_mcq": false,
+        "question": "Where in the cell do we find the protein Cep135?",
+        "answer": "centrosome"
+    },
+    {
+        "idx": 132,
+        "is_mcq": false,
+        "question": "Which enzyme is inhibited by Varespladib?",
+        "answer": "secretory phospholipase A2"
+    },
+    {
+        "idx": 133,
+        "is_mcq": false,
+        "question": "Which protein does empagliflozin inhibit?",
+        "answer": "SGLT2"
+    },
+    {
+        "idx": 134,
+        "is_mcq": false,
+        "question": "Which autophagy pathway is trigered by the KFERQ motif of cytosolic proteins?",
+        "answer": "Chaperone-mediated autophagy (CMA)"
+    },
+    {
+        "idx": 135,
+        "is_mcq": false,
+        "question": "Which is the phosphorylated residue in the promoter paused form of RNA polymerase II?",
+        "answer": "serine 5"
+    },
+    {
+        "idx": 136,
+        "is_mcq": false,
+        "question": "Which is the physiological target for LeuRS translational quality control?",
+        "answer": "norvaline"
+    },
+    {
+        "idx": 137,
+        "is_mcq": false,
+        "question": "Which is the target of the drug Denosumab?",
+        "answer": "RANKL"
+    },
+    {
+        "idx": 138,
+        "is_mcq": false,
+        "question": "Which enzyme is inhibited by a drug fostamatinib?",
+        "answer": "spleen tyrosine kinase"
+    },
+    {
+        "idx": 139,
+        "is_mcq": false,
+        "question": "In which condition was protein S100A7 originally identified?",
+        "answer": "psoriasis"
+    },
+    {
+        "idx": 140,
+        "is_mcq": false,
+        "question": "What does the SAGA complex acronym stands for?",
+        "answer": "Spt-Ada-Gcn5-acetyltransferase"
+    },
+    {
+        "idx": 141,
+        "is_mcq": false,
+        "question": "Which are the smallest known subviral pathogens of plants?",
+        "answer": "viroids"
+    },
+    {
+        "idx": 142,
+        "is_mcq": false,
+        "question": "What causes Katayama Fever?",
+        "answer": "Schistosoma spp"
+    },
+    {
+        "idx": 143,
+        "is_mcq": false,
+        "question": "Which is the database of molecular recognition features in membrane proteins?",
+        "answer": "mpMoRFsDB"
+    },
+    {
+        "idx": 144,
+        "is_mcq": false,
+        "question": "Which database is available for the identification of chorion proteins in Lepidopteran proteomes?",
+        "answer": "LepChorionDB"
+    },
+    {
+        "idx": 145,
+        "is_mcq": false,
+        "question": "Which kinase is inhibited by Tripolin A?",
+        "answer": "Aurora A"
+    },
+    {
+        "idx": 146,
+        "is_mcq": false,
+        "question": "Which is the cellular target of gefitinib?",
+        "answer": "epidermal growth factor receptor (EGFR)"
+    },
+    {
+        "idx": 147,
+        "is_mcq": false,
+        "question": "How many different mutations have been associated with Muenke syndrome?",
+        "answer": "one"
+    },
+    {
+        "idx": 148,
+        "is_mcq": false,
+        "question": "DX-88 is investigational name of which drug?",
+        "answer": "Ecallantide"
+    },
+    {
+        "idx": 149,
+        "is_mcq": false,
+        "question": "Do the Sleeping Beauty or the piggyBac transposons have higher transposition efficiency?",
+        "answer": "PiggyBac"
+    },
+    {
+        "idx": 150,
+        "is_mcq": false,
+        "question": "Which is the most common disease attributed to malfunction or absence of primary cilia?",
+        "answer": "polycystic kidney disease (PKD)"
+    },
+    {
+        "idx": 151,
+        "is_mcq": false,
+        "question": "Which enzyme is deficient in Gaucher's disease?",
+        "answer": "beta glucocerebrosidase"
+    },
+    {
+        "idx": 152,
+        "is_mcq": false,
+        "question": "Which is the most common type of pediatric cerebellar tumor?",
+        "answer": "Medulloblastoma"
+    },
+    {
+        "idx": 153,
+        "is_mcq": false,
+        "question": "Which is the E3 ubiquitin ligase of Hsp90?",
+        "answer": "Carboxyl terminus of hsc70-interacting protein (CHIP)"
+    },
+    {
+        "idx": 154,
+        "is_mcq": false,
+        "question": "In which kingdom do microsporidia belong, according to their current classification scheme?",
+        "answer": "fungi"
+    },
+    {
+        "idx": 155,
+        "is_mcq": false,
+        "question": "What is the effect of a defective CLN3 gene?",
+        "answer": "Batten disease"
+    },
+    {
+        "idx": 156,
+        "is_mcq": false,
+        "question": "What is the inheritance pattern of Li\u2013Fraumeni syndrome?",
+        "answer": "autosomal dominant"
+    },
+    {
+        "idx": 157,
+        "is_mcq": false,
+        "question": "Which pituitary adenoma is common cause of infertility is women?",
+        "answer": "Prolactinoma"
+    },
+    {
+        "idx": 158,
+        "is_mcq": false,
+        "question": "What is the function of circular RNA?",
+        "answer": "Recent research has revealed that circRNAs can function as microRNA (miRNA) sponges, regulators of splicing and transcription, and modifiers of parental gene expression."
+    },
+    {
+        "idx": 159,
+        "is_mcq": false,
+        "question": "What is the presumed key event in Fanconi anemia pathogenesis?",
+        "answer": "FancD2 monoubiquitination"
+    },
+    {
+        "idx": 160,
+        "is_mcq": false,
+        "question": "Which trancription factor activates the betalain pathway?",
+        "answer": "The beet Y locus encodes an anthocyanin MYB-like protein that activates the betalain red pigment pathway."
+    },
+    {
+        "idx": 161,
+        "is_mcq": false,
+        "question": "What is the average diameter of intermediate filaments?",
+        "answer": "10 nm"
+    },
+    {
+        "idx": 162,
+        "is_mcq": false,
+        "question": "Which intermediate filament (IF) protein can be used as a non-specific marker of the neuronal precursor cells of the subventricular zone?",
+        "answer": "nestin"
+    },
+    {
+        "idx": 163,
+        "is_mcq": false,
+        "question": "Which enzyme is involved in the maintenance of DNA (cytosine-5-)-methylation?",
+        "answer": "DNMT1"
+    },
+    {
+        "idx": 164,
+        "is_mcq": false,
+        "question": "Which gene harbors the mutation T790M?",
+        "answer": "EGFR"
+    },
+    {
+        "idx": 165,
+        "is_mcq": false,
+        "question": "Which is the protein implicated in Spinocerebellar ataxia type 3?",
+        "answer": "ataxin-3"
+    },
+    {
+        "idx": 166,
+        "is_mcq": false,
+        "question": "What does mTOR stands for?",
+        "answer": "mammalian target of rapamycin"
+    },
+    {
+        "idx": 167,
+        "is_mcq": false,
+        "question": "Which calcium channels does ethosuximide target?",
+        "answer": "T-type calcium channels"
+    },
+    {
+        "idx": 168,
+        "is_mcq": false,
+        "question": "What is the sedimentation coefficient of the mammalian mitoribosome?",
+        "answer": "55 S"
+    },
+    {
+        "idx": 169,
+        "is_mcq": false,
+        "question": "Which receptor is targeted by telcagepant?",
+        "answer": "calcitonin gene-related peptide"
+    },
+    {
+        "idx": 170,
+        "is_mcq": false,
+        "question": "Which R/bioconductor package utilizes the Hilbert curve in order to visualize genomic data?",
+        "answer": "HilbertVis"
+    },
+    {
+        "idx": 171,
+        "is_mcq": false,
+        "question": "Which pathway is activated by ficolin-3?",
+        "answer": "lectin complement pathway"
+    },
+    {
+        "idx": 172,
+        "is_mcq": false,
+        "question": "What is targeted by monoclonal antibody Pembrolizumab?",
+        "answer": "programmed cell death 1"
+    },
+    {
+        "idx": 173,
+        "is_mcq": false,
+        "question": "What is the mode of inheritance of Facioscapulohumeral muscular\ndystrophy (FSHD)?",
+        "answer": "autosomal dominant"
+    },
+    {
+        "idx": 174,
+        "is_mcq": false,
+        "question": "What is the cause of Phthiriasis Palpebrarum?",
+        "answer": "Pthirus pubis"
+    },
+    {
+        "idx": 175,
+        "is_mcq": false,
+        "question": "Which gene is mutated in a subtype of arrhythmogenic right ventricular cardiomyopathy known as Naxos disease?",
+        "answer": "the plakoglobin gene"
+    },
+    {
+        "idx": 176,
+        "is_mcq": false,
+        "question": "Which disorder is rated by Palmini classification?",
+        "answer": "focal cortical dysplasia"
+    },
+    {
+        "idx": 177,
+        "is_mcq": false,
+        "question": "Which is the receptor for substrates of Chaperone Mediated Autophagy?",
+        "answer": "lamp2a"
+    },
+    {
+        "idx": 178,
+        "is_mcq": false,
+        "question": "What is the mode of inheritance of short QT syndrome?",
+        "answer": "autosomal dominant mode of inheritance"
+    },
+    {
+        "idx": 179,
+        "is_mcq": false,
+        "question": "What is the reason for the narcolepsy cases developed after H1N1 influenza vaccination?",
+        "answer": "The proposed mechanism for postvaccination narcolepsy is one in which an environmental trigger causes or enhances an antibody-mediated autoimmune response in patients with a preexisting genetic susceptibility."
+    },
+    {
+        "idx": 180,
+        "is_mcq": false,
+        "question": "Which is the transcript responsible for X-chromosome inactivation?",
+        "answer": "Xist"
+    },
+    {
+        "idx": 181,
+        "is_mcq": false,
+        "question": "Which domain allowing self-association do exist in TDP-43 and FUS proteins?",
+        "answer": "prion-like domain"
+    },
+    {
+        "idx": 182,
+        "is_mcq": false,
+        "question": "What type of enzyme is peroxiredoxin 2 (PRDX2)?",
+        "answer": "antioxidant"
+    },
+    {
+        "idx": 183,
+        "is_mcq": false,
+        "question": "Which disease is associated with the ectopic expression of the protein encoded by the gene DUX4?",
+        "answer": "FSHD"
+    },
+    {
+        "idx": 184,
+        "is_mcq": false,
+        "question": "Which G protein is essential in the formation and function of lamellipodia?",
+        "answer": "Rac1"
+    },
+    {
+        "idx": 185,
+        "is_mcq": false,
+        "question": "What can Nothobranchius furzeri be used as a model system for?",
+        "answer": "aging research"
+    },
+    {
+        "idx": 186,
+        "is_mcq": false,
+        "question": "Which gene is involved in CADASIL?",
+        "answer": "NOTCH3 gene"
+    },
+    {
+        "idx": 187,
+        "is_mcq": false,
+        "question": "What are the structures formed when keratin molecules come together?",
+        "answer": "intermediate filaments"
+    },
+    {
+        "idx": 188,
+        "is_mcq": false,
+        "question": "Which gene is associated with Muenke syndrome?",
+        "answer": "fibroblast growth factor receptor 3 (FGFR3)"
+    },
+    {
+        "idx": 189,
+        "is_mcq": false,
+        "question": "RTS S AS01 vaccine was developed to prevent which disease?",
+        "answer": "malaria"
+    },
+    {
+        "idx": 190,
+        "is_mcq": false,
+        "question": "Which is the main regulatory molecule of SERCA2A function in the cardiac muscle?",
+        "answer": "PLN"
+    },
+    {
+        "idx": 191,
+        "is_mcq": false,
+        "question": "Which gene is responsible for the development of the Mowat-Wilson syndrome?",
+        "answer": "ZFHX1B"
+    },
+    {
+        "idx": 192,
+        "is_mcq": false,
+        "question": "Which factor interacts with Treslin/TICRR throughout the cell cycle of human cells?",
+        "answer": "MDM two binding protein (MTBP)"
+    },
+    {
+        "idx": 193,
+        "is_mcq": false,
+        "question": "Which medication should be administered when managing patients with suspected acute opioid overdose?",
+        "answer": "naloxone"
+    },
+    {
+        "idx": 194,
+        "is_mcq": false,
+        "question": "Which type of GTPases is required for amino acid-dependent activation of mTORC1?",
+        "answer": "Heterodimeric Rag GTPases"
+    },
+    {
+        "idx": 195,
+        "is_mcq": false,
+        "question": "What is the synonym of the lubag disease?",
+        "answer": "X-linked dystonia-parkinsonism"
+    },
+    {
+        "idx": 196,
+        "is_mcq": false,
+        "question": "The small molecule SEA0400 is an inhibitor of which ion antiporter/exchanger?",
+        "answer": "NCX"
+    },
+    {
+        "idx": 197,
+        "is_mcq": false,
+        "question": "What is Piebaldism?",
+        "answer": "Piebaldism is a rare autosomal dominant disorder of melanocyte development characterized by a congenital white forelock and multiple symmetrical stable hypopigmented or depigmented macules."
+    },
+    {
+        "idx": 198,
+        "is_mcq": false,
+        "question": "Which SLC family is FLVCR1 a member of?",
+        "answer": "SLC49"
+    },
+    {
+        "idx": 199,
+        "is_mcq": false,
+        "question": "How are ultraconserved elements called when they form clusters?",
+        "answer": "gene regulatory blocks (GRBs)"
+    },
+    {
+        "idx": 200,
+        "is_mcq": false,
+        "question": "Which disease has been associated to a disruptive ALX1 protein?",
+        "answer": "frontonasal dysplasia"
+    },
+    {
+        "idx": 201,
+        "is_mcq": false,
+        "question": "How many selenoproteins are encoded in the human genome?",
+        "answer": "25"
+    },
+    {
+        "idx": 202,
+        "is_mcq": false,
+        "question": "In which yeast chromosome does the rDNA cluster reside?",
+        "answer": "chromosome XII"
+    },
+    {
+        "idx": 203,
+        "is_mcq": false,
+        "question": "During which stage of the cell cycle is cohesin deposited on the yeast genome?",
+        "answer": "S-phase"
+    },
+    {
+        "idx": 204,
+        "is_mcq": false,
+        "question": "Which is the neurodevelopmental disorder associated to mutations in the X- linked gene mecp2?",
+        "answer": "Rett syndrome"
+    },
+    {
+        "idx": 205,
+        "is_mcq": false,
+        "question": "What is the link between Dax1 and Esrrb?",
+        "answer": "Dax1 associates with Esrrb and regulates its function in embryonic stem cells."
+    },
+    {
+        "idx": 206,
+        "is_mcq": false,
+        "question": "Which heat shock protein is found to be upregulated during Hsp90 inhibition?",
+        "answer": "HSP70"
+    },
+    {
+        "idx": 207,
+        "is_mcq": false,
+        "question": "Which gene is responsible for the development of Sotos syndrome?",
+        "answer": "NSD1 gene"
+    },
+    {
+        "idx": 208,
+        "is_mcq": false,
+        "question": "What is the name for anorexia in gymnasts?",
+        "answer": "Anorexia Athletica"
+    },
+    {
+        "idx": 209,
+        "is_mcq": false,
+        "question": "What is the name of the stem loop present in the 3' end of genes encoding for selenoproteins?",
+        "answer": "SECIS"
+    },
+    {
+        "idx": 210,
+        "is_mcq": false,
+        "question": "Which SWI/SNF protein complex subunit has been demonstrated to interact with the FANCA gene product?",
+        "answer": "BRG1"
+    },
+    {
+        "idx": 211,
+        "is_mcq": false,
+        "question": "Do archaeal genomes contain one or multiple origins of replication?",
+        "answer": "multiple"
+    },
+    {
+        "idx": 212,
+        "is_mcq": false,
+        "question": "Which clotting factor is inhibited by betrixaban?",
+        "answer": "xa"
+    },
+    {
+        "idx": 213,
+        "is_mcq": false,
+        "question": "How is bladder wall thickness measured?",
+        "answer": "ultrasound"
+    },
+    {
+        "idx": 214,
+        "is_mcq": false,
+        "question": "LY450139 is investigational name of which drug?",
+        "answer": "semagacestat"
+    },
+    {
+        "idx": 215,
+        "is_mcq": false,
+        "question": "Which is the methyl donor of histone methyltransferases?",
+        "answer": "SAM"
+    },
+    {
+        "idx": 216,
+        "is_mcq": false,
+        "question": "What is the gene frequently mutated in Multiple endocrine neoplasia 2 (MEN2) and Hisrchsprung disease?",
+        "answer": "RET"
+    },
+    {
+        "idx": 217,
+        "is_mcq": false,
+        "question": "From which sequence does the Alu repeat originate from?",
+        "answer": "7SL RNA"
+    },
+    {
+        "idx": 218,
+        "is_mcq": false,
+        "question": "Abnormality in which vertebral region is important in the Bertolotti's syndrome?",
+        "answer": "lumbosacral"
+    },
+    {
+        "idx": 219,
+        "is_mcq": false,
+        "question": "What does iBAQ stand for in proteomic analysis?",
+        "answer": "intensity-based absolute quantification"
+    },
+    {
+        "idx": 220,
+        "is_mcq": false,
+        "question": "Which is the most prevalent form of arrhythmia worldwide?",
+        "answer": "AF"
+    },
+    {
+        "idx": 221,
+        "is_mcq": false,
+        "question": "Which glands are subject to attack by lymphocytes in Sjogren's syndrome?",
+        "answer": "the lacrimal and/or salivary glands"
+    },
+    {
+        "idx": 222,
+        "is_mcq": false,
+        "question": "Mutations in which gene determine response to both erlotinib and gefitinib?",
+        "answer": "epidermal growth factor receptor (EGFR) gene"
+    },
+    {
+        "idx": 223,
+        "is_mcq": false,
+        "question": "Which is the RNA sequence of the canonical polyadenylation signal?",
+        "answer": "AAUAAA"
+    },
+    {
+        "idx": 224,
+        "is_mcq": false,
+        "question": "What is the color of the protein Ranasmurfin?",
+        "answer": "blue"
+    },
+    {
+        "idx": 225,
+        "is_mcq": false,
+        "question": "Which histone modification is primarily linked to elongating transcription?",
+        "answer": "H3K36 trimethylation"
+    },
+    {
+        "idx": 226,
+        "is_mcq": false,
+        "question": "Which interleukin is blocked by Siltuximab?",
+        "answer": "interleukin-6"
+    },
+    {
+        "idx": 227,
+        "is_mcq": false,
+        "question": "ROSIER scale is used for which disorder?",
+        "answer": "stroke"
+    },
+    {
+        "idx": 228,
+        "is_mcq": false,
+        "question": "Which bone protein is used in archaelogy for dating and species identification?",
+        "answer": "collagen"
+    },
+    {
+        "idx": 229,
+        "is_mcq": false,
+        "question": "Which gene has been implicated in Majeed Syndrome?",
+        "answer": "LPIN2"
+    },
+    {
+        "idx": 230,
+        "is_mcq": false,
+        "question": "Selexipag is used for which disease?",
+        "answer": "pulmonary arterial hypertension"
+    },
+    {
+        "idx": 231,
+        "is_mcq": false,
+        "question": "What is the RESID database?",
+        "answer": "The RESID Database of Protein Modifications is a comprehensive collection of annotations and structures for protein modifications and cross-links including pre-, co-, and post-translational modifications"
+    },
+    {
+        "idx": 232,
+        "is_mcq": false,
+        "question": "Pridopidine has been tested for treatment of which disorder?",
+        "answer": "Huntington disease"
+    },
+    {
+        "idx": 233,
+        "is_mcq": false,
+        "question": "Which is the chromosomal location of the gene MAOA?",
+        "answer": "Xp21-p11"
+    },
+    {
+        "idx": 234,
+        "is_mcq": false,
+        "question": "Idarucizumab is an antidote of which drug?",
+        "answer": "dabigatran"
+    },
+    {
+        "idx": 235,
+        "is_mcq": false,
+        "question": "Which thyroid hormone transporter is implicated in thyroid hormone resistance syndrome?",
+        "answer": "MCT8"
+    },
+    {
+        "idx": 236,
+        "is_mcq": false,
+        "question": "Which protein is affected by dusp8 activation?",
+        "answer": "JNK"
+    },
+    {
+        "idx": 237,
+        "is_mcq": false,
+        "question": "What is the incidence of cystic fibrosis in the caucasian population?",
+        "answer": "1:2000"
+    },
+    {
+        "idx": 238,
+        "is_mcq": false,
+        "question": "Which enzyme is inhibited by Orteronel?",
+        "answer": "CYP17A1"
+    },
+    {
+        "idx": 239,
+        "is_mcq": false,
+        "question": "Which gene fusion is the result of the \"philadelphia translocation\" or the \"philadelphia chromosome\" mutation?",
+        "answer": "The BCR/ABL gene fusion"
+    },
+    {
+        "idx": 240,
+        "is_mcq": false,
+        "question": "Which syndrome is associated with OATP1B1 and OATP1B3 deficiency?",
+        "answer": "Rotor syndrome"
+    },
+    {
+        "idx": 241,
+        "is_mcq": false,
+        "question": "Which type of lung cancer is afatinib used for?",
+        "answer": "EGFR-mutant NSCLC"
+    },
+    {
+        "idx": 242,
+        "is_mcq": false,
+        "question": "Which disease is treated with Eliglustat?",
+        "answer": "Gaucher's disease type 1"
+    },
+    {
+        "idx": 243,
+        "is_mcq": false,
+        "question": "Is APOBEC3B protein predominantly cytoplasmic or nuclear?",
+        "answer": "nuclear"
+    },
+    {
+        "idx": 244,
+        "is_mcq": false,
+        "question": "Which tool is used for promoterome mining using CAGE data?",
+        "answer": "CAGEr"
+    },
+    {
+        "idx": 245,
+        "is_mcq": false,
+        "question": "Aleglitazar is agonist of which receptor?",
+        "answer": "peroxisome proliferator-activated receptor-\u03b1/\u03b3"
+    },
+    {
+        "idx": 246,
+        "is_mcq": false,
+        "question": "Galassi classification is used for which disorder?",
+        "answer": "arachnoid cyst"
+    },
+    {
+        "idx": 247,
+        "is_mcq": false,
+        "question": "To the ligand of which receptors does Denosumab (Prolia) bind?",
+        "answer": "RANKL"
+    },
+    {
+        "idx": 248,
+        "is_mcq": false,
+        "question": "Which protein pathway is regulating SGK1-mediated phosphorylation of FOXO3a to control cell proliferation?",
+        "answer": "The mTOR pathway"
+    },
+    {
+        "idx": 249,
+        "is_mcq": false,
+        "question": "What is the function of caspases?",
+        "answer": "Caspases are intracellular proteases that propagate programmed cell death, proliferation, and inflammation."
+    },
+    {
+        "idx": 250,
+        "is_mcq": false,
+        "question": "How many genes outside of the MHC locus have been genetically associated to Rheumatoid Arthritis through GWAS?",
+        "answer": "more than 30"
+    },
+    {
+        "idx": 251,
+        "is_mcq": false,
+        "question": "In which phase of cell cycle does  stress-induced transcription-associated mutagenesis (TAM) occur?",
+        "answer": "stationary phase"
+    },
+    {
+        "idx": 252,
+        "is_mcq": false,
+        "question": "Which tumor suppressor is referred to as \"the guardian of the genome\"?",
+        "answer": "p53"
+    },
+    {
+        "idx": 253,
+        "is_mcq": false,
+        "question": "Which drug should be used as an antidote in benzodiazepine overdose?",
+        "answer": "flumazenil"
+    },
+    {
+        "idx": 254,
+        "is_mcq": false,
+        "question": "What is the definitive treatment for low pressure headache?",
+        "answer": "epidural blood patch"
+    },
+    {
+        "idx": 255,
+        "is_mcq": false,
+        "question": "Which species of bacteria did the mitochondria originate from?",
+        "answer": "Biologists agree that the ancestor of mitochondria was an alpha-proteobacterium."
+    },
+    {
+        "idx": 256,
+        "is_mcq": false,
+        "question": "Which disease is linked to mutations within BRAG1?",
+        "answer": "X-linked intellectual disability"
+    },
+    {
+        "idx": 257,
+        "is_mcq": false,
+        "question": "Which is the main calcium pump of the sarcoplasmic reticulum?",
+        "answer": "SERCA"
+    },
+    {
+        "idx": 258,
+        "is_mcq": false,
+        "question": "What is the inheritance pattern of Apert syndrome?",
+        "answer": "autosomal dominant"
+    },
+    {
+        "idx": 259,
+        "is_mcq": false,
+        "question": "Which is the most widely used model for the study of multiple sclerosis (MS)?",
+        "answer": "experimental autoimmune encephalomyelitis (EAE)"
+    },
+    {
+        "idx": 260,
+        "is_mcq": false,
+        "question": "What is the usual HER-2 status in breast cancer associated with Li-Fraumeni syndrome?",
+        "answer": "positive"
+    },
+    {
+        "idx": 261,
+        "is_mcq": false,
+        "question": "Which E3 ubiquitin ligase mediates the ubiquitination and degradation of the interferon receptor type 1 (IFNAR1)?",
+        "answer": "beta-Trcp"
+    },
+    {
+        "idx": 262,
+        "is_mcq": false,
+        "question": "What is the characteristic domain of histone methyltransferases?",
+        "answer": "SET domain"
+    },
+    {
+        "idx": 263,
+        "is_mcq": false,
+        "question": "Which is the major phytoalexin in alfalfa (Medicago sativa L.)?",
+        "answer": "medicarpin"
+    },
+    {
+        "idx": 264,
+        "is_mcq": false,
+        "question": "Which syndrome is associated with mutations in the LYST gene?",
+        "answer": "Chediak-Higashi syndrome"
+    },
+    {
+        "idx": 265,
+        "is_mcq": false,
+        "question": "Which protein is the main inhibitor of protein phosphatase 1 (PP1)?",
+        "answer": "Inhibitor 1"
+    },
+    {
+        "idx": 266,
+        "is_mcq": false,
+        "question": "Which protein is required for Argonaute 2 recruitment to stress granules and P-bodies?",
+        "answer": "Hsp90"
+    },
+    {
+        "idx": 267,
+        "is_mcq": false,
+        "question": "Which drug is benserazide usually co-administered with?",
+        "answer": "L-dopa"
+    },
+    {
+        "idx": 268,
+        "is_mcq": false,
+        "question": "What is the inheritance pattern of Catecholaminergic Polymorphic Ventricular Tachycardia (CPVT) caused by RYR2 mutations?",
+        "answer": "autosomal dominant"
+    },
+    {
+        "idx": 269,
+        "is_mcq": false,
+        "question": "Do A-type lamins bind euchromatin or heterochromatin?",
+        "answer": "both euchromatin and heterochromatin"
+    },
+    {
+        "idx": 270,
+        "is_mcq": false,
+        "question": "Which is the most abundant membrane protein on Earth?",
+        "answer": "LHCII"
+    },
+    {
+        "idx": 271,
+        "is_mcq": false,
+        "question": "What is the most probable defect underlying triple negative breast cancer?",
+        "answer": "BRCA1 dysfunction"
+    },
+    {
+        "idx": 272,
+        "is_mcq": false,
+        "question": "What disease is Velcade (bortezomib) mainly used for?",
+        "answer": "multiple myeloma"
+    },
+    {
+        "idx": 273,
+        "is_mcq": false,
+        "question": "Which is the main calcium binding protein of the sarcoplasmic reticulum?",
+        "answer": "Calsequestrin"
+    },
+    {
+        "idx": 274,
+        "is_mcq": false,
+        "question": "What memory problems are reported in the \" Gulf war syndrome\"",
+        "answer": "memory loss"
+    },
+    {
+        "idx": 275,
+        "is_mcq": false,
+        "question": "Which molecule is targeted by Daratumumab?",
+        "answer": "CD38"
+    },
+    {
+        "idx": 276,
+        "is_mcq": false,
+        "question": "Mention the only available genomics and developmental transcriptomics resource for the urochordate Oikopleura dioica",
+        "answer": "OikoBase"
+    },
+    {
+        "idx": 277,
+        "is_mcq": false,
+        "question": "Which hormone receptor function is altered in patients with Donohue syndrome?",
+        "answer": "insulin"
+    },
+    {
+        "idx": 278,
+        "is_mcq": false,
+        "question": "What is the typical rash associated with gluten ?",
+        "answer": "dermatitis herpetiformis"
+    },
+    {
+        "idx": 279,
+        "is_mcq": false,
+        "question": "Which is the vector of Louping ill virus?",
+        "answer": "Ixodes ricinus"
+    },
+    {
+        "idx": 280,
+        "is_mcq": false,
+        "question": "What disease is mirtazapine predominantly used for?",
+        "answer": "major depression"
+    },
+    {
+        "idx": 281,
+        "is_mcq": false,
+        "question": "Alpha-spectrin and beta-spectrin subunits form parallel or antiparallel heterodimers?",
+        "answer": "antiparallel"
+    },
+    {
+        "idx": 282,
+        "is_mcq": false,
+        "question": "What is targeted by Palbociclib?",
+        "answer": "Epidermal growth factor receptor"
+    },
+    {
+        "idx": 283,
+        "is_mcq": false,
+        "question": "Which peptide plays a pivotal role in human cystatin C fibrillization?",
+        "answer": "LQVVR"
+    },
+    {
+        "idx": 284,
+        "is_mcq": false,
+        "question": "What is the gold standard treatment for Iatrogenic male incontinence?",
+        "answer": "AUS"
+    },
+    {
+        "idx": 285,
+        "is_mcq": false,
+        "question": "Which hormone concentrations are altered in patients with the Allan\u2013Herndon\u2013Dudley syndrome?",
+        "answer": "thyroid"
+    },
+    {
+        "idx": 286,
+        "is_mcq": false,
+        "question": "Where in the cell does the proteins S100A4 and p53 interact ?",
+        "answer": "nucleus"
+    },
+    {
+        "idx": 287,
+        "is_mcq": false,
+        "question": "Which is the causative agent of malaria?",
+        "answer": "Plasmodium spp."
+    },
+    {
+        "idx": 288,
+        "is_mcq": false,
+        "question": "What is the major adverse effect of adriamycin(doxorubicin)?",
+        "answer": "cardiotoxicity"
+    },
+    {
+        "idx": 289,
+        "is_mcq": false,
+        "question": "Which is the most common editing modification in eukaryotic mRNA?",
+        "answer": "A-to-I"
+    },
+    {
+        "idx": 290,
+        "is_mcq": false,
+        "question": "What is the most likely age of diagnosis of Crohn's disease (CD)?",
+        "answer": "Crohn's disease has a bimodal age distribution of disease onset diagnosis. The peaks (20 and 50 years) may represent different phenotypes or different genetic and/or environmental influences between younger- and older-onset individuals."
+    },
+    {
+        "idx": 291,
+        "is_mcq": false,
+        "question": "What disease is small bowel lymphoma commonly associated with",
+        "answer": "celiac disease"
+    },
+    {
+        "idx": 292,
+        "is_mcq": false,
+        "question": "Which molecule is targeted by a monoclonal antibody Secukinumab?",
+        "answer": "interleukin-17A"
+    },
+    {
+        "idx": 293,
+        "is_mcq": false,
+        "question": "Which calcium/calmodulin dependent protein phosphatase is involved in the activation of the family of NFAT transcription factors (Nuclear Factors of Activated T cells)?",
+        "answer": "calcineurin"
+    },
+    {
+        "idx": 294,
+        "is_mcq": false,
+        "question": "What histone trimethylation has been associated to RNA splicing?",
+        "answer": "H3K36me3"
+    },
+    {
+        "idx": 295,
+        "is_mcq": false,
+        "question": "What was the purpose of the FANTOM4 project?",
+        "answer": "better understand the transcriptional network that regulates macrophage differentiation"
+    },
+    {
+        "idx": 296,
+        "is_mcq": false,
+        "question": "What is the role of eteplirsen in DMD patients?",
+        "answer": "skipping of dystrophin exon 51"
+    },
+    {
+        "idx": 297,
+        "is_mcq": false,
+        "question": "Which drug is considered as the first line treatment of fibromyalgia?",
+        "answer": "pregabalin"
+    },
+    {
+        "idx": 298,
+        "is_mcq": false,
+        "question": "What is the indication for isradipine?",
+        "answer": "hypertension"
+    },
+    {
+        "idx": 299,
+        "is_mcq": false,
+        "question": "What is the name of Bruton's tyrosine kinase inhibitor that can be used for treatment of chronic lymphocytic leukemia?",
+        "answer": "ibrutinib"
+    },
+    {
+        "idx": 300,
+        "is_mcq": false,
+        "question": "How many disulfide bridges has the protein hepcidin got?",
+        "answer": "Hepcidin contains eight cysteine residues that form four disulfide bridges"
+    },
+    {
+        "idx": 301,
+        "is_mcq": false,
+        "question": "Which receptors can be evaluated with the [18F]altanserin?",
+        "answer": "5-HT2A"
+    },
+    {
+        "idx": 302,
+        "is_mcq": false,
+        "question": "Which is the receptor for the immunosuppressive drug cyclosporin A (CsA)?",
+        "answer": "cyclophilin"
+    },
+    {
+        "idx": 303,
+        "is_mcq": false,
+        "question": "Which is the gene most commonly mutated in Tay-Sachs disease?",
+        "answer": "HEXA"
+    },
+    {
+        "idx": 304,
+        "is_mcq": false,
+        "question": "Which hormone abnormalities are characteristic to Pendred syndrome?",
+        "answer": "thyroid"
+    },
+    {
+        "idx": 305,
+        "is_mcq": false,
+        "question": "What is the mode of inheritance of  long QT  Jervell and Lange-Nielsen syndrome?",
+        "answer": "autosomal recessive"
+    },
+    {
+        "idx": 306,
+        "is_mcq": false,
+        "question": "Does dasatinib promote or inhibit T-cell proliferation?",
+        "answer": "inhibits"
+    },
+    {
+        "idx": 307,
+        "is_mcq": false,
+        "question": "Are most driver gene mutations synonymous or non-synonymous?",
+        "answer": "non-synonymous"
+    },
+    {
+        "idx": 308,
+        "is_mcq": false,
+        "question": "Which cyclin- dependent kinase inhibitor is regulated by Bmi-1?",
+        "answer": "p16INK4"
+    },
+    {
+        "idx": 309,
+        "is_mcq": false,
+        "question": "Which protein is found to be mutated in Friedreich's ataxia?",
+        "answer": "frataxin"
+    },
+    {
+        "idx": 310,
+        "is_mcq": false,
+        "question": "Which is the process that Conserved noncoding elements mostly regulate?",
+        "answer": "development"
+    },
+    {
+        "idx": 311,
+        "is_mcq": false,
+        "question": "Which properties of the mRNA does N6-methyladenosine (m6A) affect?",
+        "answer": "mRNA stability"
+    },
+    {
+        "idx": 312,
+        "is_mcq": false,
+        "question": "Which is the histone residue methylated by MLL1?",
+        "answer": "H3K4"
+    },
+    {
+        "idx": 313,
+        "is_mcq": false,
+        "question": "Which type of cells is affected in Amyotrophic Lateral Sclerosis?",
+        "answer": "motor neurons"
+    },
+    {
+        "idx": 314,
+        "is_mcq": false,
+        "question": "Patients of which disease could be treated by utilizing knowledge obtained from experiments suppressing TDP-43 toxicity in yeast?",
+        "answer": "Amyotrophic lateral sclerosis (ALS)"
+    },
+    {
+        "idx": 315,
+        "is_mcq": false,
+        "question": "Mutation of which gene is associated with McLeod syndrome?",
+        "answer": "XK"
+    },
+    {
+        "idx": 316,
+        "is_mcq": false,
+        "question": "Which is the molecular target of the immunosuppressant drug Rapamycin?",
+        "answer": "mTOR"
+    },
+    {
+        "idx": 317,
+        "is_mcq": false,
+        "question": "PBT2 has been tested for which disorder?",
+        "answer": "Alzheimer's disease"
+    },
+    {
+        "idx": 318,
+        "is_mcq": false,
+        "question": "What is the mode of inheritance of Acromicric dysplasia?",
+        "answer": "autosomal dominant"
+    },
+    {
+        "idx": 319,
+        "is_mcq": false,
+        "question": "How many tissue kallikrein genes are present in the human genome?",
+        "answer": "15"
+    },
+    {
+        "idx": 320,
+        "is_mcq": false,
+        "question": "Which compound is a specific inhibitor for Nox1 and Nox4?",
+        "answer": "GKT136901"
+    },
+    {
+        "idx": 321,
+        "is_mcq": false,
+        "question": "Which molecule is targeted by the drug Gevokizumab?",
+        "answer": "IL-1\u03b2"
+    },
+    {
+        "idx": 322,
+        "is_mcq": false,
+        "question": "What is the Drosophila melanogaster Groucho protein?",
+        "answer": "Groucho (Gro) is a Drosophila melanogaster transcriptional corepressor"
+    },
+    {
+        "idx": 323,
+        "is_mcq": false,
+        "question": "Which enzyme is inhibited by Imetelstat?",
+        "answer": "telomerase"
+    },
+    {
+        "idx": 324,
+        "is_mcq": false,
+        "question": "Which is the most widely used anti-TNF drug?",
+        "answer": "etanercept"
+    }
+]

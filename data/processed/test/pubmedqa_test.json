@@ -1,0 +1,1302 @@
+[
+    {
+        "idx": 0,
+        "is_mcq": true,
+        "question": "Landolt C and snellen e acuity: differences in strabismus amblyopia?",
+        "options": {
+            "A": "yes",
+            "B": "no",
+            "C": "maybe"
+        },
+        "answer": "B",
+        "answer_text": "no",
+        "answer_long": "Using the charts described, there was only a slight overestimation of visual acuity by the Snellen E compared to the Landolt C, even in strabismus amblyopia. Small differences in the lower visual acuity range have to be considered."
+    },
+    {
+        "idx": 1,
+        "is_mcq": true,
+        "question": "Can tailored interventions increase mammography use among HMO women?",
+        "options": {
+            "A": "yes",
+            "B": "no",
+            "C": "maybe"
+        },
+        "answer": "A",
+        "answer_text": "yes",
+        "answer_long": "The effects of the intervention were most pronounced after the first intervention. Compared to usual care, telephone counseling seemed particularly effective at promoting change among nonadherent women, the group for whom the intervention was developed. These results suggest that telephone counseling, rather than tailored print, might be the preferred first-line intervention for getting nonadherent women on schedule for mammography screening. Many questions would have to be answered about why the tailored print intervention was not more powerful. Nevertheless, it is clear that additional interventions will be needed to maintain women's adherence to mammography. Medical Subject Headings (MeSH): mammography screening, telephone counseling, tailored print communications, barriers."
+    },
+    {
+        "idx": 2,
+        "is_mcq": true,
+        "question": "Do emergency ultrasound fellowship programs impact emergency medicine residents' ultrasound education?",
+        "options": {
+            "A": "yes",
+            "B": "no",
+            "C": "maybe"
+        },
+        "answer": "A",
+        "answer_text": "yes",
+        "answer_long": "Emergency US fellowship programs had a positive impact on residents' US educational experiences. Emergency medicine residents performed more scans overall and also used bedside US for more advanced applications in programs with EUS fellowships."
+    },
+    {
+        "idx": 3,
+        "is_mcq": true,
+        "question": "Israeli hospital preparedness for terrorism-related multiple casualty incidents: can the surge capacity and injury severity distribution be better predicted?",
+        "options": {
+            "A": "yes",
+            "B": "no",
+            "C": "maybe"
+        },
+        "answer": "A",
+        "answer_text": "yes",
+        "answer_long": "Hospital preparedness can be better defined by a fixed number of casualties rather than a percentile of its bed capacity. Only 20% of the arriving casualties will require immediate medical treatment. Implementation of this concept may improve the utilisation of national emergency health resources both in the preparation phase and on real time."
+    },
+    {
+        "idx": 4,
+        "is_mcq": true,
+        "question": "Is a mandatory general surgery rotation necessary in the surgical clerkship?",
+        "options": {
+            "A": "yes",
+            "B": "no",
+            "C": "maybe"
+        },
+        "answer": "B",
+        "answer_text": "no",
+        "answer_long": "Effective undergraduate surgical education can be offered in many specialty settings. Removal of the requirement for general surgery in clerkship may lead to a more effective use of all educational opportunities. A careful analysis of local programs and facilities is necessary before suggesting this change to other institutions."
+    },
+    {
+        "idx": 5,
+        "is_mcq": true,
+        "question": "Is aneurysm repair justified for the patients aged 80 or older after aneurysmal subarachnoid hemorrhage?",
+        "options": {
+            "A": "yes",
+            "B": "no",
+            "C": "maybe"
+        },
+        "answer": "A",
+        "answer_text": "yes",
+        "answer_long": "Better prognosis was obtained when ruptured aneurysm was repaired in the elderly than it was treated conservatively. From the results of this study, we should not hesitate to offer the definitive surgery for the elderly with aSAH."
+    },
+    {
+        "idx": 6,
+        "is_mcq": true,
+        "question": "Biomechanical and wound healing characteristics of corneas after excimer laser keratorefractive surgery: is there a difference between advanced surface ablation and sub-Bowman's keratomileusis?",
+        "options": {
+            "A": "yes",
+            "B": "no",
+            "C": "maybe"
+        },
+        "answer": "A",
+        "answer_text": "yes",
+        "answer_long": "Ophthalmic pathology and basic science research show that SBK and ASA are improvements in excimer laser keratorefractive surgery compared to conventional LASIK or PRK, particularly with regard to maintaining corneal biomechanics and perhaps moderately reducing the risk of corneal haze. However, most of the disadvantages caused by wound healing issues remain."
+    },
+    {
+        "idx": 7,
+        "is_mcq": true,
+        "question": "Can PRISM predict length of PICU stay?",
+        "options": {
+            "A": "yes",
+            "B": "no",
+            "C": "maybe"
+        },
+        "answer": "B",
+        "answer_text": "no",
+        "answer_long": "The ANN with its intrinsic ability to detect non-linear correlation, and to relate specific item patterns to LOS, outperformed linear statistics but was still disappointing in estimating individual LOS. It might be speculated that therapeutic intervention modulates the natural course of the disease thus counteracting both disease severity as initially scored by PRISM, and LOS. This being true, the inverse of the correlation between PRISM (or PRISM based LOS estimate) and LOS might be a candidate indicator of quality of care."
+    },
+    {
+        "idx": 8,
+        "is_mcq": true,
+        "question": "Cold preparation use in young children after FDA warnings: do concerns still exist?",
+        "options": {
+            "A": "yes",
+            "B": "no",
+            "C": "maybe"
+        },
+        "answer": "A",
+        "answer_text": "yes",
+        "answer_long": "Despite current recommendations, cough and cold medicines are still used in children younger than 6 years of age. A significant portion of caregivers report that they are still unaware of public warnings, potential side effects, and interactions with other medications."
+    },
+    {
+        "idx": 9,
+        "is_mcq": true,
+        "question": "Is the Distance Worth It?",
+        "options": {
+            "A": "yes",
+            "B": "no",
+            "C": "maybe"
+        },
+        "answer": "A",
+        "answer_text": "yes",
+        "answer_long": "Our results indicate that when controlled for patient, tumor, and hospital factors, patients who traveled a long distance to a high-volume center had improved lymph node yield, neoadjuvant chemoradiation receipt, and 30- and 90-day mortality compared with those who traveled a short distance to a low-volume center. They also had improved 5-year survival. See Video Abstract at http://links.lww.com/DCR/A446."
+    },
+    {
+        "idx": 10,
+        "is_mcq": true,
+        "question": "Is Panton-Valentine leucocidin associated with the pathogenesis of Staphylococcus aureus bacteraemia in the UK?",
+        "options": {
+            "A": "yes",
+            "B": "no",
+            "C": "maybe"
+        },
+        "answer": "C",
+        "answer_text": "maybe",
+        "answer_long": "We found that 1.6% of S. aureus (all MSSA) from bacteraemic patients were PVL-positive. This low incidence suggests that PVL-positive S. aureus are of no particular significance as causative agents of S. aureus bacteraemia."
+    },
+    {
+        "idx": 11,
+        "is_mcq": true,
+        "question": "Can increases in the cigarette tax rate be linked to cigarette retail prices?",
+        "options": {
+            "A": "yes",
+            "B": "no",
+            "C": "maybe"
+        },
+        "answer": "B",
+        "answer_text": "no",
+        "answer_long": "Numerous studies have found that taxation is one of the most effective policy instruments for tobacco control. However, these findings come from countries that have market economies where market forces determine prices and influence how cigarette taxes are passed to the consumers in retail prices. China's tobacco industry is not a market economy; therefore, non-market forces and the current Chinese tobacco monopoly system determine cigarette prices. The result is that tax increases do not necessarily get passed on to the retail price."
+    },
+    {
+        "idx": 12,
+        "is_mcq": true,
+        "question": "Is dexamethasone an effective alternative to oral prednisone in the treatment of pediatric asthma exacerbations?",
+        "options": {
+            "A": "yes",
+            "B": "no",
+            "C": "maybe"
+        },
+        "answer": "A",
+        "answer_text": "yes",
+        "answer_long": "The current literature suggests that dexamethasone can be used as an effective alternative to prednisone in the treatment of mild to moderate acute asthma exacerbations in children, with the added benefits of improved compliance, palatability, and cost. However, more research is needed to examine the role of dexamethasone in hospitalized children."
+    },
+    {
+        "idx": 13,
+        "is_mcq": true,
+        "question": "Does screening or surveillance for primary hepatocellular carcinoma with ultrasonography improve the prognosis of patients?",
+        "options": {
+            "A": "yes",
+            "B": "no",
+            "C": "maybe"
+        },
+        "answer": "A",
+        "answer_text": "yes",
+        "answer_long": "The significant impact of ultrasonographic screening on mortality reduction was demonstrated. These findings strongly suggest that early detection of hepatocellular carcinoma by ultrasound may improve the prognosis of patients with hepatocellular carcinoma."
+    },
+    {
+        "idx": 14,
+        "is_mcq": true,
+        "question": "Do French lay people and health professionals find it acceptable to breach confidentiality to protect a patient's wife from a sexually transmitted disease?",
+        "options": {
+            "A": "yes",
+            "B": "no",
+            "C": "maybe"
+        },
+        "answer": "C",
+        "answer_text": "maybe",
+        "answer_long": "Most people in France are influenced by situational factors when deciding if a physician should breach confidentiality to protect the spouse of a patient infected with STD."
+    },
+    {
+        "idx": 15,
+        "is_mcq": true,
+        "question": "Inpatient versus outpatient management of neutropenic fever in gynecologic oncology patients: is risk stratification useful?",
+        "options": {
+            "A": "yes",
+            "B": "no",
+            "C": "maybe"
+        },
+        "answer": "A",
+        "answer_text": "yes",
+        "answer_long": "Based on this pilot data, MASCC score appears promising in determining suitability for outpatient management of NF in gynecologic oncology patients. Prospective study is ongoing to confirm safety and determine impact on cost."
+    },
+    {
+        "idx": 16,
+        "is_mcq": true,
+        "question": "Does blood pressure change in treated hypertensive patients depending on whether it is measured by a physician or a nurse?",
+        "options": {
+            "A": "yes",
+            "B": "no",
+            "C": "maybe"
+        },
+        "answer": "A",
+        "answer_text": "yes",
+        "answer_long": "Systolic BP measured by the nurse in treated hypertensive patients is significantly lower than the readings obtained by the physician, and are almost identical to ambulatory BP monitoring. Blood pressure determination by the nurse is desirable not only for diagnosis but also to evaluate the level of control of blood pressure during the follow-up of treated hypertensive patients."
+    },
+    {
+        "idx": 17,
+        "is_mcq": true,
+        "question": "Is the clinically positive axilla in breast cancer really a contraindication to sentinel lymph node biopsy?",
+        "options": {
+            "A": "yes",
+            "B": "no",
+            "C": "maybe"
+        },
+        "answer": "B",
+        "answer_text": "no",
+        "answer_long": "Clinical axillary examination in breast cancer is subject to false-positive results, and is by itself insufficient justification for axillary lymph node dissection. If other means of preoperative assessment such as palpation- or image-guided fine needle aspiration are negative or indeterminate, then SLN biopsy deserves wider consideration as an alternative to routine axillary lymph node dissection in the clinically node-positive setting."
+    },
+    {
+        "idx": 18,
+        "is_mcq": true,
+        "question": "Do patients with localized prostate cancer treatment really want more aggressive treatment?",
+        "options": {
+            "A": "yes",
+            "B": "no",
+            "C": "maybe"
+        },
+        "answer": "B",
+        "answer_text": "no",
+        "answer_long": "Most patients with localized prostate cancer prefer the lower radiation dose. Our findings indicate that many patients attach more weight to specific quality-of-life aspects (eg, GI toxicity) than to improving survival. Treatment preferences of patients with localized prostate cancer can and should be involved in radiotherapy decision making."
+    },
+    {
+        "idx": 19,
+        "is_mcq": true,
+        "question": "Does reducing spasticity translate into functional benefit?",
+        "options": {
+            "A": "yes",
+            "B": "no",
+            "C": "maybe"
+        },
+        "answer": "A",
+        "answer_text": "yes",
+        "answer_long": "Using a targeted meta-analytic approach, it is possible to demonstrate that reducing spasticity in the arm is associated with a significant improvement in arm function."
+    },
+    {
+        "idx": 20,
+        "is_mcq": true,
+        "question": "Cholestasis associated with small bowel atresia: do we always need to investigate?",
+        "options": {
+            "A": "yes",
+            "B": "no",
+            "C": "maybe"
+        },
+        "answer": "B",
+        "answer_text": "no",
+        "answer_long": "Small bowel atresia is frequently associated with postoperative cholestasis that will resolve with time. We recommend a more selective and expectant approach to SBA-associated cholestasis to minimize unnecessary investigations."
+    },
+    {
+        "idx": 21,
+        "is_mcq": true,
+        "question": "Are financial incentives cost-effective to support smoking cessation during pregnancy?",
+        "options": {
+            "A": "yes",
+            "B": "no",
+            "C": "maybe"
+        },
+        "answer": "A",
+        "answer_text": "yes",
+        "answer_long": "Financial incentives for smoking cessation in pregnancy are highly cost-effective, with an incremental cost per quality-adjusted life years of \u00a3482, which is well below recommended decision thresholds."
+    },
+    {
+        "idx": 22,
+        "is_mcq": true,
+        "question": "Chemotherapy and survival in advanced non-small cell lung carcinoma: is pneumologists' skepticism justified?",
+        "options": {
+            "A": "yes",
+            "B": "no",
+            "C": "maybe"
+        },
+        "answer": "B",
+        "answer_text": "no",
+        "answer_long": "In normal clinical practice, chemotherapy significantly prolongs survival in patients with performance status of less than 2, more time being gained if there is no associated weight loss. We conclude that the reluctance shown by many pneumologists toward using this treatment is not entirely justified."
+    },
+    {
+        "idx": 23,
+        "is_mcq": true,
+        "question": "Fragility of the esophageal mucosa: a pathognomonic endoscopic sign of primary eosinophilic esophagitis?",
+        "options": {
+            "A": "yes",
+            "B": "no",
+            "C": "maybe"
+        },
+        "answer": "A",
+        "answer_text": "yes",
+        "answer_long": "Primary eosinophilic esophagitis is characterized by fragile esophageal mucosa that readily tears in response to minor trauma during otherwise uneventful diagnostic endoscopy. This \"cr\u00eape-paper\" sign may alert endoscopists to the presence of the disease when other mucosal alterations are lacking. Dilation is effective for patients with symptoms with minimal morbidity, despite development of disquieting lesions in response to the procedure."
+    },
+    {
+        "idx": 24,
+        "is_mcq": true,
+        "question": "Can shape analysis differentiate free-floating internal carotid artery thrombus from atherosclerotic plaque in patients evaluated with CTA for stroke or transient ischemic attack?",
+        "options": {
+            "A": "yes",
+            "B": "no",
+            "C": "maybe"
+        },
+        "answer": "A",
+        "answer_text": "yes",
+        "answer_long": "We identified five quantitative shape descriptors of carotid FFT. This shape \"signature\" shows potential for supplementing conventional lesion characterization in cases of suspected FFT."
+    },
+    {
+        "idx": 25,
+        "is_mcq": true,
+        "question": "Dementia and aphasia in motor neuron disease: an underrecognised association?",
+        "options": {
+            "A": "yes",
+            "B": "no",
+            "C": "maybe"
+        },
+        "answer": "A",
+        "answer_text": "yes",
+        "answer_long": "The prevalence of cognitive impairment in MND in this population based study of an unselected cohort was higher than has been previously reported. Language deficits, especially anomia, may be relatively frequent in the MND population. Aphasia in MND may be masked by dysarthria and missed if not specifically examined."
+    },
+    {
+        "idx": 26,
+        "is_mcq": true,
+        "question": "Diffusion-weighted echo-planar MR imaging of primary parotid gland tumors: is a prediction of different histologic subtypes possible?",
+        "options": {
+            "A": "yes",
+            "B": "no",
+            "C": "maybe"
+        },
+        "answer": "A",
+        "answer_text": "yes",
+        "answer_long": "epiDWI has the potential to differentiate pleomorphic adenoma and myoepithelial adenomas from all other examined entities. Due to an overlap not only within the group of benign and malignant lesions but also between groups, diagnoses should not be addressed on the basis of ADC values solely. Therefore, further studies combining DWI, morphologic criteria, and probably other MR imaging techniques seem warranted."
+    },
+    {
+        "idx": 27,
+        "is_mcq": true,
+        "question": "Is gastric electrical stimulation superior to standard pharmacologic therapy in improving GI symptoms, healthcare resources, and long-term health care benefits?",
+        "options": {
+            "A": "yes",
+            "B": "no",
+            "C": "maybe"
+        },
+        "answer": "A",
+        "answer_text": "yes",
+        "answer_long": "We conclude that GES is more effective in improving long-term GI symptoms and costs, and decreasing use of healthcare resources than intensive medical therapy, in this sample of patients with the symptoms of GP followed for 3 years. Certain patients with GP form a high-risk group in terms of costs, quality of life, morbidity and mortality."
+    },
+    {
+        "idx": 28,
+        "is_mcq": true,
+        "question": "Should pulp chamber pulpotomy be seen as a permanent treatment?",
+        "options": {
+            "A": "yes",
+            "B": "no",
+            "C": "maybe"
+        },
+        "answer": "B",
+        "answer_text": "no",
+        "answer_long": "Under the conditions of this study, pulpotomy offered a viable alternative to root canal treatment for teeth with vital pulps in the short term. However, there is insufficient clinical evidence to consider this technique for the treatment of every permanent tooth. Nevertheless, it should be considered as a potential alternative approach to be further developed for future applications."
+    },
+    {
+        "idx": 29,
+        "is_mcq": true,
+        "question": "Can communication with terminally ill patients be taught?",
+        "options": {
+            "A": "yes",
+            "B": "no",
+            "C": "maybe"
+        },
+        "answer": "A",
+        "answer_text": "yes",
+        "answer_long": "The realized communication skills courses resulted in relevant changes in communication behaviour and self-confidence of participants. Communication with terminally ill patients can be taught."
+    },
+    {
+        "idx": 30,
+        "is_mcq": true,
+        "question": "Are acceptance rates of a national preventive home visit programme for older people socially imbalanced?",
+        "options": {
+            "A": "yes",
+            "B": "no",
+            "C": "maybe"
+        },
+        "answer": "A",
+        "answer_text": "yes",
+        "answer_long": "High socioeconomic status was associated with a higher acceptance rate of preventive home visits, but the association was attenuated by invitational procedures. The results indicate that the social inequality in acceptance of publicly offered preventive services might decrease if municipalities adopt more proactive invitational procedures."
+    },
+    {
+        "idx": 31,
+        "is_mcq": true,
+        "question": "Uniformity of evidence-based treatments in practice?",
+        "options": {
+            "A": "yes",
+            "B": "no",
+            "C": "maybe"
+        },
+        "answer": "A",
+        "answer_text": "yes",
+        "answer_long": "This study adds to the growing body of literature documenting the importance of the individual therapist as an important factor in the change process."
+    },
+    {
+        "idx": 32,
+        "is_mcq": true,
+        "question": "Digital Tomosynthesis: A Viable Alternative to Noncontrast Computed Tomography for the Follow-Up of Nephrolithiasis?",
+        "options": {
+            "A": "yes",
+            "B": "no",
+            "C": "maybe"
+        },
+        "answer": "A",
+        "answer_text": "yes",
+        "answer_long": "We found DT to be a comparable imaging modality to NCCT for the detection of intrarenal stones, without a significant effect from stone size and BMI and adequate reproducibility between multiple readers. DT appears to be an ideal alternative for following patients with nephrolithiasis due to its acceptable stone detection rates, low radiation exposure, and decreased cost compared to NCCT."
+    },
+    {
+        "idx": 33,
+        "is_mcq": true,
+        "question": "Are hepatitis G virus and TT virus involved in cryptogenic chronic liver disease?",
+        "options": {
+            "A": "yes",
+            "B": "no",
+            "C": "maybe"
+        },
+        "answer": "B",
+        "answer_text": "no",
+        "answer_long": "In Southern Italy, hepatitis G virus infection is widespread among patients with chronic hepatitis, independently of parenteral risk factors. Its frequency in subjects with cryptogenic liver disease parallels that observed in hepatitis C virus chronic liver disease, thus ruling out an aetiologic role of hepatitis G virus. TT virus infection is uncommon in patients with cryptogenic or hepatitis C virus-related liver disease who do not have a history of parenteral exposure."
+    },
+    {
+        "idx": 34,
+        "is_mcq": true,
+        "question": "Upstream solutions: does the supplemental security income program reduce disability in the elderly?",
+        "options": {
+            "A": "yes",
+            "B": "no",
+            "C": "maybe"
+        },
+        "answer": "A",
+        "answer_text": "yes",
+        "answer_long": "Income support policy may be a significant new lever for improving population health, especially that of lower-income persons. Even though the findings are robust, further analyses are needed to confirm their reliability. Future research should examine a variety of different income support policies, as well as whether a broader range of social and economic policies affect health."
+    },
+    {
+        "idx": 35,
+        "is_mcq": true,
+        "question": "Kell alloimmunization in pregnancy: associated with fetal thrombocytopenia?",
+        "options": {
+            "A": "yes",
+            "B": "no",
+            "C": "maybe"
+        },
+        "answer": "B",
+        "answer_text": "no",
+        "answer_long": "In contrast to fetuses with severe anaemia and hydrops due to RhD alloimmunization, fetuses with severe anaemia due to Kell alloimmunization are generally not at risk for substantial thrombocytopenia."
+    },
+    {
+        "idx": 36,
+        "is_mcq": true,
+        "question": "Can third trimester ultrasound predict the presentation of the first twin at delivery?",
+        "options": {
+            "A": "yes",
+            "B": "no",
+            "C": "maybe"
+        },
+        "answer": "A",
+        "answer_text": "yes",
+        "answer_long": "The presentation of the first twin at delivery can be determined by sonogram by the 32nd week of gestation in over 90% of twin pregnancies."
+    },
+    {
+        "idx": 37,
+        "is_mcq": true,
+        "question": "Risk factors for major depression during midlife among a community sample of women with and without prior major depression: are they the same or different?",
+        "options": {
+            "A": "yes",
+            "B": "no",
+            "C": "maybe"
+        },
+        "answer": "B",
+        "answer_text": "no",
+        "answer_long": "The menopausal transition warrants attention as a period of vulnerability to MDD recurrence, while health factors and VMS should be considered important risk factors for first lifetime-onset of MDD during midlife."
+    },
+    {
+        "idx": 38,
+        "is_mcq": true,
+        "question": "Can EMS Providers Provide Appropriate Tidal Volumes in a Simulated Adult-sized Patient with a Pediatric-sized Bag-Valve-Mask?",
+        "options": {
+            "A": "yes",
+            "B": "no",
+            "C": "maybe"
+        },
+        "answer": "A",
+        "answer_text": "yes",
+        "answer_long": "The study suggests that ventilating an adult patient is possible with a smaller, pediatric-sized BVM. The tidal volumes recorded with the pediatric BVM were more consistent with lung-protective ventilation volumes."
+    },
+    {
+        "idx": 39,
+        "is_mcq": true,
+        "question": "Does ultrasound-scored synovitis depend on the pharmacokinetics of subcutaneous anti-TNF agents in patients with rheumatoid arthritis?",
+        "options": {
+            "A": "yes",
+            "B": "no",
+            "C": "maybe"
+        },
+        "answer": "B",
+        "answer_text": "no",
+        "answer_long": "Our results suggested that s.c. anti-TNF pharmacokinetics do not significantly influence US-scored synovitis in RA patients."
+    },
+    {
+        "idx": 40,
+        "is_mcq": true,
+        "question": "Undescended testes: does age at orchiopexy affect survival of the testis?",
+        "options": {
+            "A": "yes",
+            "B": "no",
+            "C": "maybe"
+        },
+        "answer": "B",
+        "answer_text": "no",
+        "answer_long": "From this study we conclude that there is no increase in testicular atrophy in patients less than 13 months."
+    },
+    {
+        "idx": 41,
+        "is_mcq": true,
+        "question": "Do hospitals provide lower quality care on weekends?",
+        "options": {
+            "A": "yes",
+            "B": "no",
+            "C": "maybe"
+        },
+        "answer": "A",
+        "answer_text": "yes",
+        "answer_long": "Weekend hospitalization leads to delayed provision of intensive procedures and elevated 1-year mortality for elderly AMI patients. The existence of measurable differences in treatments raises questions regarding the efficacy of a single input regulation (e.g., mandated nurse staffing ratios) in enhancing the quality of weekend care. My results suggest that targeted financial incentives might be a more cost-effective policy response than broad regulation aimed at improving quality."
+    },
+    {
+        "idx": 42,
+        "is_mcq": true,
+        "question": "Will clinical studies elucidate the connection between the length of storage of transfused red blood cells and clinical outcomes?",
+        "options": {
+            "A": "yes",
+            "B": "no",
+            "C": "maybe"
+        },
+        "answer": "B",
+        "answer_text": "no",
+        "answer_long": "Ongoing RCTs may lack enough power to settle the issue of whether or not the transfusion of stored blood has a negative clinical impact. A precautionary reduction of the maximum storage time to 35 days is advisable."
+    },
+    {
+        "idx": 43,
+        "is_mcq": true,
+        "question": "Cardiogenic shock complicating acute myocardial infarction in elderly patients: does admission to a tertiary center improve survival?",
+        "options": {
+            "A": "yes",
+            "B": "no",
+            "C": "maybe"
+        },
+        "answer": "B",
+        "answer_text": "no",
+        "answer_long": "In a community-based cohort, patients with acute myocardial infarction complicated by cardiogenic shock did not have significantly different adjusted 30-day and 1-year mortality, irrespective of the revascularization capabilities of the admitting hospital."
+    },
+    {
+        "idx": 44,
+        "is_mcq": true,
+        "question": "Learning needs of postpartum women: does socioeconomic status matter?",
+        "options": {
+            "A": "yes",
+            "B": "no",
+            "C": "maybe"
+        },
+        "answer": "A",
+        "answer_text": "yes",
+        "answer_long": "It is important to ensure that new mothers are adequately informed about topics important to them while in hospital. The findings highlight the need for accessible and appropriate community-based information resources for women in the postpartum period, especially for those of low socioeconomic status."
+    },
+    {
+        "idx": 45,
+        "is_mcq": true,
+        "question": "An HIV1/2 point of care test on sputum for screening TB/HIV co-infection in Central India - Will it work?",
+        "options": {
+            "A": "yes",
+            "B": "no",
+            "C": "maybe"
+        },
+        "answer": "A",
+        "answer_text": "yes",
+        "answer_long": "This testing method may provide a useful strategy for conducting HIV surveillance in possible co-infected TB patients at peripheral centres. Since there is no investment on infrastructure, it may be possible for paramedical health professionals to carry out the test, particularly in areas with low HIV endemicity."
+    },
+    {
+        "idx": 46,
+        "is_mcq": true,
+        "question": "Does laparoscopic antireflux surgery improve quality of life in patients whose gastro-oesophageal reflux disease is well controlled with medical therapy?",
+        "options": {
+            "A": "yes",
+            "B": "no",
+            "C": "maybe"
+        },
+        "answer": "A",
+        "answer_text": "yes",
+        "answer_long": "Laparoscopic antireflux surgery significantly improved quality of life in reflux patients whose symptoms were well controlled on medical therapy. Although on the basis of a noncomparative trial with a relatively short follow-up period, we believe such patients should be considered for laparoscopic antireflux surgery."
+    },
+    {
+        "idx": 47,
+        "is_mcq": true,
+        "question": "Cue-induced behavioural activation: a novel model of alcohol craving?",
+        "options": {
+            "A": "yes",
+            "B": "no",
+            "C": "maybe"
+        },
+        "answer": "A",
+        "answer_text": "yes",
+        "answer_long": "Cue-induced behavioural activation was specific to alcohol cues, reproducible, persistent and could be blocked by naltrexone, and its correlation with human self-report of craving makes it a potentially useful model for studying alcohol craving."
+    },
+    {
+        "idx": 48,
+        "is_mcq": true,
+        "question": "Should tumor depth be included in prognostication of soft tissue sarcoma?",
+        "options": {
+            "A": "yes",
+            "B": "no",
+            "C": "maybe"
+        },
+        "answer": "B",
+        "answer_text": "no",
+        "answer_long": "Most of the prognostic value of tumor depth in soft tissue sarcomas of the extremity or trunk wall can be explained by the association between tumor size and depth."
+    },
+    {
+        "idx": 49,
+        "is_mcq": true,
+        "question": "Has the 80-hour workweek improved surgical resident education in New England?",
+        "options": {
+            "A": "yes",
+            "B": "no",
+            "C": "maybe"
+        },
+        "answer": "B",
+        "answer_text": "no",
+        "answer_long": "Despite the positive effects the 80-hour workweek has had on resident quality of life and patient care, it does not seem that either significant improvements or detrimental effects have occurred on surgical education within residency programs in New England."
+    },
+    {
+        "idx": 50,
+        "is_mcq": true,
+        "question": "Does head positioning influence anterior chamber depth in pseudoexfoliation syndrome?",
+        "options": {
+            "A": "yes",
+            "B": "no",
+            "C": "maybe"
+        },
+        "answer": "A",
+        "answer_text": "yes",
+        "answer_long": "In patients with clinically apparent unilateral pseudoexfoliation, the lens seems to be more mobile in the affected eye. This results in a shallower anterior chamber when the head is placed in a prone position. Whether this fact might potentially lead to transient pupillary block when engaging in activities such as facing down while reading warrants further study."
+    },
+    {
+        "idx": 51,
+        "is_mcq": true,
+        "question": "Maternal creatine homeostasis is altered during gestation in the spiny mouse: is this a metabolic adaptation to pregnancy?",
+        "options": {
+            "A": "yes",
+            "B": "no",
+            "C": "maybe"
+        },
+        "answer": "A",
+        "answer_text": "yes",
+        "answer_long": "Change of maternal creatine status (increased creatine synthesis and reduced creatine excretion) may be a necessary adjustment of maternal physiology to pregnancy to meet the metabolic demands of maternal tissues, the placenta and developing fetus."
+    },
+    {
+        "idx": 52,
+        "is_mcq": true,
+        "question": "Delayed peripheral facial palsy in the stapes surgery: can it be prevented?",
+        "options": {
+            "A": "yes",
+            "B": "no",
+            "C": "maybe"
+        },
+        "answer": "A",
+        "answer_text": "yes",
+        "answer_long": "Poststapedectomy-delayed facial palsy is likely caused by a reactivation of HSV-1, latent within the geniculate ganglion. The activation of the latent virus is more frequent in patients with a history of herpes labialis and can be prevented by an adequate acyclovir therapy."
+    },
+    {
+        "idx": 53,
+        "is_mcq": true,
+        "question": "Is low serum chloride level a risk factor for cardiovascular mortality?",
+        "options": {
+            "A": "yes",
+            "B": "no",
+            "C": "maybe"
+        },
+        "answer": "A",
+        "answer_text": "yes",
+        "answer_long": "This s the first report from a population-based study to indicate that there is an association between serum chloride level and the incidence of total, CVD and non-CVD mortalities. The risk ratio for CVD mortality associated with a low serum chloride level was comparable to or higher than those observed for well-established CVD risk factors."
+    },
+    {
+        "idx": 54,
+        "is_mcq": true,
+        "question": "Acute hepatitis C in Israel: a predominantly iatrogenic disease?",
+        "options": {
+            "A": "yes",
+            "B": "no",
+            "C": "maybe"
+        },
+        "answer": "A",
+        "answer_text": "yes",
+        "answer_long": "Acute hepatitis C in the post universal blood products screening era was found to be predominantly an iatrogenic disease in the investigated localities. This finding should direct attention and resources towards the development and implementation of preventive measures."
+    },
+    {
+        "idx": 55,
+        "is_mcq": true,
+        "question": "Do elderly patients benefit from surgery in addition to radiotherapy for treatment of metastatic spinal cord compression?",
+        "options": {
+            "A": "yes",
+            "B": "no",
+            "C": "maybe"
+        },
+        "answer": "B",
+        "answer_text": "no",
+        "answer_long": "Elderly patients with MSCC did not benefit from surgery in addition to radiotherapy regarding functional outcome, local control of MSCC, or survival."
+    },
+    {
+        "idx": 56,
+        "is_mcq": true,
+        "question": "Is minilaparoscopic inguinal hernia repair feasible?",
+        "options": {
+            "A": "yes",
+            "B": "no",
+            "C": "maybe"
+        },
+        "answer": "A",
+        "answer_text": "yes",
+        "answer_long": "While limited by its retrospective design, the present study indicates that the minilaparoscopic approach to groin hernia repair is safe and effective, making miniTAPP a challenging alternative to laparoscopy in the approach to groin hernia repair."
+    },
+    {
+        "idx": 57,
+        "is_mcq": true,
+        "question": "Can nonproliferative breast disease and proliferative breast disease without atypia be distinguished by fine-needle aspiration cytology?",
+        "options": {
+            "A": "yes",
+            "B": "no",
+            "C": "maybe"
+        },
+        "answer": "B",
+        "answer_text": "no",
+        "answer_long": "Because there is significant overlap in cytologic features between NPBD and PBD, the distinction between the two entities is difficult in cytologic sampling."
+    },
+    {
+        "idx": 58,
+        "is_mcq": true,
+        "question": "Can we ease the financial burden of colonoscopy?",
+        "options": {
+            "A": "yes",
+            "B": "no",
+            "C": "maybe"
+        },
+        "answer": "A",
+        "answer_text": "yes",
+        "answer_long": "Endoscopists within a tertiary care setting can accurately predict diminutive polyp histology and confer an appropriate surveillance interval with an associated financial benefit to the healthcare system. However, limitations to its application in the community setting exist, which may improve with further training and high-definition colonoscopes."
+    },
+    {
+        "idx": 59,
+        "is_mcq": true,
+        "question": "Thrombosis prophylaxis in hospitalised medical patients: does prophylaxis in all patients make sense?",
+        "options": {
+            "A": "yes",
+            "B": "no",
+            "C": "maybe"
+        },
+        "answer": "B",
+        "answer_text": "no",
+        "answer_long": "The incidence of venous thrombosis during hospitalisation in a department of general internal medicine is low and does not justify prophylaxis in all internal patients. Cancer is a strong risk factor for hospital-acquired thrombosis in the medical ward. Further studies may answer the question as to whether thrombosis prophylaxis in this subgroup is feasible."
+    },
+    {
+        "idx": 60,
+        "is_mcq": true,
+        "question": "Does \u03b2-catenin have a role in pathogenesis of sebaceous cell carcinoma of the eyelid?",
+        "options": {
+            "A": "yes",
+            "B": "no",
+            "C": "maybe"
+        },
+        "answer": "A",
+        "answer_text": "yes",
+        "answer_long": "Cytoplasmic overexpression of \u03b2-catenin was observed in the majority of the cases of SbCC of eyelid, and this correlated significantly with tumour size. The authors therefore hypothesise that \u03b2-catenin overexpression in SbCC of eyelid may be a result of Wnt/\u03b2-catenin pathway dysregulation. However, its role both in the development of sebaceous cell carcinoma of the eyelid as well as its prognosis needs to be explored further."
+    },
+    {
+        "idx": 61,
+        "is_mcq": true,
+        "question": "Are complex coronary lesions more frequent in patients with diabetes mellitus?",
+        "options": {
+            "A": "yes",
+            "B": "no",
+            "C": "maybe"
+        },
+        "answer": "A",
+        "answer_text": "yes",
+        "answer_long": "Complex coronary lesions such as bifurcation and ostial lesions were significantly more common in diabetic patients than in nondiabetic patients. Greater age and the presence of DM were independent predictors for these complex lesions. These results may help to explain the poor prognosis of coronary artery disease among diabetic patients."
+    },
+    {
+        "idx": 62,
+        "is_mcq": true,
+        "question": "Is decompressive surgery effective for spinal cord sarcoidosis accompanied with compressive cervical myelopathy?",
+        "options": {
+            "A": "yes",
+            "B": "no",
+            "C": "maybe"
+        },
+        "answer": "B",
+        "answer_text": "no",
+        "answer_long": "The effect of decompression for spinal cord sarcoidosis with compressive myelopathy was not evident. Early diagnosis for sarcoidosis from other organ and steroid therapy should be needed."
+    },
+    {
+        "idx": 63,
+        "is_mcq": true,
+        "question": "Is a pressor necessary during aortic perfusion and oxygenation therapy of cardiac arrest?",
+        "options": {
+            "A": "yes",
+            "B": "no",
+            "C": "maybe"
+        },
+        "answer": "A",
+        "answer_text": "yes",
+        "answer_long": "The addition of epinephrine to ACLS-SAPO increases vital organ perfusion pressures and improves outcome from cardiac arrest. There appears to be a profound loss of arterial vasomotor tone after prolonged arrest. This loss of vasomotor tone may make exogenous pressors necessary for resuscitation after prolonged cardiac arrest."
+    },
+    {
+        "idx": 64,
+        "is_mcq": true,
+        "question": "Is the type of remission after a major depressive episode an important risk factor to relapses in a 4-year follow up?",
+        "options": {
+            "A": "yes",
+            "B": "no",
+            "C": "maybe"
+        },
+        "answer": "A",
+        "answer_text": "yes",
+        "answer_long": "At medium term, relapse rates for a major depressive episode are high. Partial remission after a depressive episode seems to be an important predictive factor for relapses in a 4-year follow-up."
+    },
+    {
+        "idx": 65,
+        "is_mcq": true,
+        "question": "Can homemade alcohol (Raksi) be useful for preserving dead bodies?",
+        "options": {
+            "A": "yes",
+            "B": "no",
+            "C": "maybe"
+        },
+        "answer": "A",
+        "answer_text": "yes",
+        "answer_long": "It is concluded from the study that this knowledge if applied to dead human subjects, may preserve dead bodies temporarily allowing delayed funeral."
+    },
+    {
+        "idx": 66,
+        "is_mcq": true,
+        "question": "Are lifetime prevalence of impetigo, molluscum and herpes infection really increased in children having atopic dermatitis?",
+        "options": {
+            "A": "yes",
+            "B": "no",
+            "C": "maybe"
+        },
+        "answer": "C",
+        "answer_text": "maybe",
+        "answer_long": "The lifetime prevalence of IC was indeed higher in young children with a history of AD."
+    },
+    {
+        "idx": 67,
+        "is_mcq": true,
+        "question": "Preparing patients at high risk of falls for discharge home after rehabilitation: Do we meet the guidelines?",
+        "options": {
+            "A": "yes",
+            "B": "no",
+            "C": "maybe"
+        },
+        "answer": "B",
+        "answer_text": "no",
+        "answer_long": "There was little evidence that people at high risk of falls received systematic falls risk assessment during rehabilitation. When a risk was identified, generally a strategy was implemented. However, failure to assess some risk factors might have limited fall prevention strategies offered. Failure to adequately address risks during hospitalization could contribute to falls post-discharge. Geriatr Gerontol Int 2016; 16: 570-576."
+    },
+    {
+        "idx": 68,
+        "is_mcq": true,
+        "question": "Does parity increase insulin resistance during pregnancy?",
+        "options": {
+            "A": "yes",
+            "B": "no",
+            "C": "maybe"
+        },
+        "answer": "B",
+        "answer_text": "no",
+        "answer_long": "Parity is not directly linked to insulin sensitivity deterioration, to CP/FPG increase during pregnancy, or to GDM appearance, although it is linked through the mediation of progressive ageing and weight gain either before or during pregnancy, when there is a sufficiently long time interval between pregnancies."
+    },
+    {
+        "idx": 69,
+        "is_mcq": true,
+        "question": "Informed consent for total hip arthroplasty: does a written information sheet improve recall by patients?",
+        "options": {
+            "A": "yes",
+            "B": "no",
+            "C": "maybe"
+        },
+        "answer": "A",
+        "answer_text": "yes",
+        "answer_long": "Written information sheets contribute to the process of informed consent. As patients' recall of information is generally poor, the sheets may also be useful medicolegally, as a permanent record of what was discussed."
+    },
+    {
+        "idx": 70,
+        "is_mcq": true,
+        "question": "Is gastric cancer different in Korea and the United States?",
+        "options": {
+            "A": "yes",
+            "B": "no",
+            "C": "maybe"
+        },
+        "answer": "A",
+        "answer_text": "yes",
+        "answer_long": "There were significant differences in tumor characteristics by tumor location within and between both national cohorts. On the basis of these findings, further study to investigate the biological difference between the two countries is needed."
+    },
+    {
+        "idx": 71,
+        "is_mcq": true,
+        "question": "Discharging patients earlier from Winnipeg hospitals: does it adversely affect quality of care?",
+        "options": {
+            "A": "yes",
+            "B": "no",
+            "C": "maybe"
+        },
+        "answer": "B",
+        "answer_text": "no",
+        "answer_long": "Improving hospital efficiency by shortening length of stay does not appear to result in increased rates of readmission or numbers of physician visits within 30 days after discharge from hospital. Research is needed to identify optimal lengths of stay and expected readmission rates."
+    },
+    {
+        "idx": 72,
+        "is_mcq": true,
+        "question": "Is neck pain associated with worse health-related quality of life 6 months later?",
+        "options": {
+            "A": "yes",
+            "B": "no",
+            "C": "maybe"
+        },
+        "answer": "A",
+        "answer_text": "yes",
+        "answer_long": "We found that neck pain was negatively associated with physical but not mental HRQoL. Our analysis suggests that neck pain may be a contributor of future poor physical HRQoL in the population. Raising awareness of the possible future impact of neck pain on physical HRQoL is important for health-care providers and policy makers with respect to the management of neck pain in populations."
+    },
+    {
+        "idx": 73,
+        "is_mcq": true,
+        "question": "Do socioeconomic differences in mortality persist after retirement?",
+        "options": {
+            "A": "yes",
+            "B": "no",
+            "C": "maybe"
+        },
+        "answer": "A",
+        "answer_text": "yes",
+        "answer_long": "Socioeconomic differences in mortality persist beyond retirement age and in magnitude increase with age. Social differentials in mortality based on an occupational status measure seem to decrease to a greater degree after retirement than those based on a non-work measure. This suggests that alongside other socioeconomic factors work itself may play an important part in generating social inequalities in health in men of working age."
+    },
+    {
+        "idx": 74,
+        "is_mcq": true,
+        "question": "Does aerobic fitness influence microvascular function in healthy adults at risk of developing Type 2 diabetes?",
+        "options": {
+            "A": "yes",
+            "B": "no",
+            "C": "maybe"
+        },
+        "answer": "C",
+        "answer_text": "maybe",
+        "answer_long": "In this 'at-risk' group with skin microvascular dysfunction maximal oxygen uptake was not reduced compared with healthy controls. However, in the 'at-risk' group alone, individuals with higher levels of aerobic fitness also had better microvascular and endothelial responsiveness."
+    },
+    {
+        "idx": 75,
+        "is_mcq": true,
+        "question": "Standardizing care in medical oncology: are Web-based systems the answer?",
+        "options": {
+            "A": "yes",
+            "B": "no",
+            "C": "maybe"
+        },
+        "answer": "C",
+        "answer_text": "maybe",
+        "answer_long": "Although the provision of high-quality evidence-based resources, electronic or otherwise, is essential for standardizing care and improving patient outcomes, the authors' findings demonstrate that this alone does not ensure uptake. It is important to understand end-users, the environment in which they operate, and the basic infrastructure required to implement such a system. Implementation must also be accompanied by continuing education and endorsement to ensure both long-term sustainability and use of the system to its full potential."
+    },
+    {
+        "idx": 76,
+        "is_mcq": true,
+        "question": "Are the elderly with oropharyngeal carcinoma undertreated?",
+        "options": {
+            "A": "yes",
+            "B": "no",
+            "C": "maybe"
+        },
+        "answer": "C",
+        "answer_text": "maybe",
+        "answer_long": "Proportionally fewer elderly patients with OPSCC are being treated than younger individuals. These patients can have significant benefits from aggressive treatments despite their older age as shown by our survival analysis. We recommend the use of objective measures to assess patient fitness to reduce the potential for undertreatment in the elderly population."
+    },
+    {
+        "idx": 77,
+        "is_mcq": true,
+        "question": "Preoperative staging of patients with liver metastases of colorectal carcinoma. Does PET/CT really add something to multidetector CT?",
+        "options": {
+            "A": "yes",
+            "B": "no",
+            "C": "maybe"
+        },
+        "answer": "B",
+        "answer_text": "no",
+        "answer_long": "PET/CT has a limited role in hepatic staging of LMCRC. Although PET-CT has higher sensitivity for the detection of extrahepatic disease in some anatomic locations, its results are hampered by its low PPV. PET/CT provided additional useful information in 8% of the cases but also incorrect and potentially harmful data in 9% of the staging. Our findings support a more selective use of PET/CT, basically in patients with high risk of local recurrence."
+    },
+    {
+        "idx": 78,
+        "is_mcq": true,
+        "question": "Schizophrenia patients with high intelligence: A clinically distinct sub-type of schizophrenia?",
+        "options": {
+            "A": "yes",
+            "B": "no",
+            "C": "maybe"
+        },
+        "answer": "A",
+        "answer_text": "yes",
+        "answer_long": "These findings provide evidence for the existence of a high-IQ variant of schizophrenia that is associated with markedly fewer negative symptoms than typical schizophrenia, and lends support to the idea of a psychosis spectrum or continuum over boundaried diagnostic categories."
+    },
+    {
+        "idx": 79,
+        "is_mcq": true,
+        "question": "Does open access endoscopy close the door to an adequately informed patient?",
+        "options": {
+            "A": "yes",
+            "B": "no",
+            "C": "maybe"
+        },
+        "answer": "A",
+        "answer_text": "yes",
+        "answer_long": "Patients undergoing open access procedures are less likely to be properly informed about their endoscopic procedure. Our results indicate that with open access endoscopy, a defined mechanism needs to be in place for communication of endoscopic results to the patient."
+    },
+    {
+        "idx": 80,
+        "is_mcq": true,
+        "question": "Cancer of the buccal mucosa: are margins and T-stage accurate predictors of local control?",
+        "options": {
+            "A": "yes",
+            "B": "no",
+            "C": "maybe"
+        },
+        "answer": "B",
+        "answer_text": "no",
+        "answer_long": "Local excision of T1 and T2 buccal mucosa cancers with pathologically negative margins had a high rate of local recurrence in our series. Low T-stage and negative margins are not adequate predictors of local control. Even early buccal tumors may benefit from adjuvant therapy to enhance local control."
+    },
+    {
+        "idx": 81,
+        "is_mcq": true,
+        "question": "Impact of MPH programs: contributing to health system strengthening in low- and middle-income countries?",
+        "options": {
+            "A": "yes",
+            "B": "no",
+            "C": "maybe"
+        },
+        "answer": "A",
+        "answer_text": "yes",
+        "answer_long": "There was considerable impact at many levels; graduates were perceived to be able to contribute significantly to their workplaces and often had influence at the national level. Much of the impact described was in line with public health educational aims. The qualitative method study revealed more in-depth understanding of graduates' impact as well as their career pathways."
+    },
+    {
+        "idx": 82,
+        "is_mcq": true,
+        "question": "Is diffusion-weighted imaging a significant indicator of the development of vascularization in hypovascular hepatocellular lesions?",
+        "options": {
+            "A": "yes",
+            "B": "no",
+            "C": "maybe"
+        },
+        "answer": "B",
+        "answer_text": "no",
+        "answer_long": "The signal intensity on DWI showed no significant difference in the development of vascularization."
+    },
+    {
+        "idx": 83,
+        "is_mcq": true,
+        "question": "Do acute changes in heart rate by isoproterenol affect aortic stiffness in patients with hypertension?",
+        "options": {
+            "A": "yes",
+            "B": "no",
+            "C": "maybe"
+        },
+        "answer": "B",
+        "answer_text": "no",
+        "answer_long": "Aortic stiffness was not affected by acute changes in HR produced by isoproterenol which suggests that it is not necessary to consider acute changes in HR when measuring aortic PWV."
+    },
+    {
+        "idx": 84,
+        "is_mcq": true,
+        "question": "May mean platelet volume levels be a predictor in the diagnosis of pelvic inflammatory disease?",
+        "options": {
+            "A": "yes",
+            "B": "no",
+            "C": "maybe"
+        },
+        "answer": "A",
+        "answer_text": "yes",
+        "answer_long": "Since the MPV value was significantly decreased in patients with PID, it may serve as an additional and even more valuable marker than leukocyte count in the diagnosis of PID."
+    },
+    {
+        "idx": 85,
+        "is_mcq": true,
+        "question": "Esophagogastric devascularization without splenectomy in portal hypertension: safe and effective?",
+        "options": {
+            "A": "yes",
+            "B": "no",
+            "C": "maybe"
+        },
+        "answer": "A",
+        "answer_text": "yes",
+        "answer_long": "EDWS is a safe and effective treatment for esophagogastric varices secondary to portal hypertension in selected patients. Patients treated with EDWS had a lower complication rate of portal venous system thrombosis compared with those treated with conventional MED."
+    },
+    {
+        "idx": 86,
+        "is_mcq": true,
+        "question": "Aberrant loss of dickkopf-3 in gastric cancer: can it predict lymph node metastasis preoperatively?",
+        "options": {
+            "A": "yes",
+            "B": "no",
+            "C": "maybe"
+        },
+        "answer": "A",
+        "answer_text": "yes",
+        "answer_long": "Loss of DKK3 protein expression was significantly associated with poor survival in patients with gastric cancer and was strongly correlated with the TNM stage. DKK3 might be a potential biomarker of lymph node involvement that can improve the predictive power of CT."
+    },
+    {
+        "idx": 87,
+        "is_mcq": true,
+        "question": "Is prophylactic fixation a cost-effective method to prevent a future contralateral fragility hip fracture?",
+        "options": {
+            "A": "yes",
+            "B": "no",
+            "C": "maybe"
+        },
+        "answer": "C",
+        "answer_text": "maybe",
+        "answer_long": ": Prophylactic fixation with a cephalomedullary nail was not found to be cost-effective for the average older woman who sustained a hip fracture. However, it may be appropriate for select patient populations. The study supports the need for basic science and clinical trials investigating the effectiveness of prophylactic fixation for patient populations at higher lifetime risk for contralateral hip fracture."
+    },
+    {
+        "idx": 88,
+        "is_mcq": true,
+        "question": "Is double-balloon enteroscopy an accurate method to diagnose small-bowel disorders?",
+        "options": {
+            "A": "yes",
+            "B": "no",
+            "C": "maybe"
+        },
+        "answer": "A",
+        "answer_text": "yes",
+        "answer_long": "1. DBE is a safe and and accurate method to diagnose small bowel disorders; 2. this method permits chromoscopy, biopsies and treatment of the lesions."
+    },
+    {
+        "idx": 89,
+        "is_mcq": true,
+        "question": "Is fetal anatomic assessment on follow-up antepartum sonograms clinically useful?",
+        "options": {
+            "A": "yes",
+            "B": "no",
+            "C": "maybe"
+        },
+        "answer": "A",
+        "answer_text": "yes",
+        "answer_long": "A fetal anatomic survey on follow-up sonograms may identify unanticipated fetal anomalies, especially when the indication is for fetal growth."
+    },
+    {
+        "idx": 90,
+        "is_mcq": true,
+        "question": "Can magnetic resonance imaging accurately predict concordant pain provocation during provocative disc injection?",
+        "options": {
+            "A": "yes",
+            "B": "no",
+            "C": "maybe"
+        },
+        "answer": "A",
+        "answer_text": "yes",
+        "answer_long": "The proposed MR classification is useful to predict a disc with concordant pain. Disc protrusion with HIZ on MR imaging predicted positive discography in patients with discogenic low back pain."
+    },
+    {
+        "idx": 91,
+        "is_mcq": true,
+        "question": "Is withdrawal-induced anxiety in alcoholism based on beta-endorphin deficiency?",
+        "options": {
+            "A": "yes",
+            "B": "no",
+            "C": "maybe"
+        },
+        "answer": "A",
+        "answer_text": "yes",
+        "answer_long": "Our results give first evidence that lowered beta E during alcohol withdrawal may contribute to anxiety as a common disturbance during this state."
+    },
+    {
+        "idx": 92,
+        "is_mcq": true,
+        "question": "Can vitamin C prevent complex regional pain syndrome in patients with wrist fractures?",
+        "options": {
+            "A": "yes",
+            "B": "no",
+            "C": "maybe"
+        },
+        "answer": "A",
+        "answer_text": "yes",
+        "answer_long": "Vitamin C reduces the prevalence of complex regional pain syndrome after wrist fractures. A daily dose of 500 mg for fifty days is recommended."
+    },
+    {
+        "idx": 93,
+        "is_mcq": true,
+        "question": "Are income-related differences in active travel associated with physical environmental characteristics?",
+        "options": {
+            "A": "yes",
+            "B": "no",
+            "C": "maybe"
+        },
+        "answer": "B",
+        "answer_text": "no",
+        "answer_long": "The socio-economic gradient in active travel seems independent of physical environmental characteristics. Whilst more affluent populations enjoy advantages on some health outcomes, they will still benefit from increasing their levels of physical activity through active travel. Benefits of active travel to the whole community would include reduced vehicle emissions, reduced carbon consumption, the preservation or enhancement of infrastructure and the presentation of a 'normalised' behaviour."
+    },
+    {
+        "idx": 94,
+        "is_mcq": true,
+        "question": "Estimated fetal weight by ultrasound: a modifiable risk factor for cesarean delivery?",
+        "options": {
+            "A": "yes",
+            "B": "no",
+            "C": "maybe"
+        },
+        "answer": "A",
+        "answer_text": "yes",
+        "answer_long": "Knowledge of US-EFW, above and beyond the impact of fetal size itself, increases the risk of CD. Acquisition of US-EFW near term appears to be an independent and potentially modifiable risk factor for CD."
+    },
+    {
+        "idx": 95,
+        "is_mcq": true,
+        "question": "Pertrochanteric fractures: is there an advantage to an intramedullary nail?",
+        "options": {
+            "A": "yes",
+            "B": "no",
+            "C": "maybe"
+        },
+        "answer": "B",
+        "answer_text": "no",
+        "answer_long": "There is no advantage to an intramedullary nail versus a sliding compression hip screw for low-energy pertrochanteric fractures AO/OTA 31-A1 and A2, specifically with its increased cost and lack of evidence to show decreased complications or improved patient outcome."
+    },
+    {
+        "idx": 96,
+        "is_mcq": true,
+        "question": "Are the GFRUP's recommendations for withholding or withdrawing treatments in critically ill children applicable?",
+        "options": {
+            "A": "yes",
+            "B": "no",
+            "C": "maybe"
+        },
+        "answer": "A",
+        "answer_text": "yes",
+        "answer_long": "GFRUPs procedure was applicable in most cases. The main difficulties were anticipating the correct date for the meeting and involving nurses in the procedure. Children for whom the procedure was interrupted because of clinical improvement and who survived in poor condition without a formal decision pointed out the need for medical criteria for questioning, which should systematically lead to a formal decision-making process."
+    },
+    {
+        "idx": 97,
+        "is_mcq": true,
+        "question": "Does left atrial appendage (LAA) occlusion device alter the echocardiography and electrocardiogram parameters in patients with atrial fibrillation?",
+        "options": {
+            "A": "yes",
+            "B": "no",
+            "C": "maybe"
+        },
+        "answer": "A",
+        "answer_text": "yes",
+        "answer_long": "LAA occlusion device resulted in a slightly movement in QRS axis, reduced HR and increased the mean-mean QT interval duration. In addition, LA diameter and ARD seemed to be larger after device implantation."
+    },
+    {
+        "idx": 98,
+        "is_mcq": true,
+        "question": "Do oblique views add value in the diagnosis of spondylolysis in adolescents?",
+        "options": {
+            "A": "yes",
+            "B": "no",
+            "C": "maybe"
+        },
+        "answer": "B",
+        "answer_text": "no",
+        "answer_long": "There is no difference in sensitivity and specificity between four-view and two-view studies. Although oblique views have long been considered standard practice by some, our data could not identify a diagnostic benefit that might outweigh the additional cost and radiation exposure."
+    },
+    {
+        "idx": 99,
+        "is_mcq": true,
+        "question": "Is there any interest to perform ultrasonography in boys with undescended testis?",
+        "options": {
+            "A": "yes",
+            "B": "no",
+            "C": "maybe"
+        },
+        "answer": "B",
+        "answer_text": "no",
+        "answer_long": "Sonography has no place in the diagnosis of undescended testis."
+    }
+]
